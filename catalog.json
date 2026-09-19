@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
+  "revision": 3,
   "updatedAt": "2026-09-19T22:42:16Z",
   "series": [
     {
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "audit-hls",
-      "title": "Katalog denemesi HLS",
+      "title": "JSON ile güncellendi",
       "subtitle": "İki bölüm · doğrudan yayın",
       "provider": "direct-hls",
       "accent": "#80C5B5",
@@ -1518,15 +1518,7 @@
           "id": "audit-hls:s1:e1",
           "season": 1,
           "number": 1,
-          "title": "Deneme 1",
-          "source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "durationMs": 0
-        },
-        {
-          "id": "audit-hls:s1:e2",
-          "season": 1,
-          "number": 2,
-          "title": "Deneme 2",
+          "title": "Yeni bölüm başlığı",
           "source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "durationMs": 0
         }
