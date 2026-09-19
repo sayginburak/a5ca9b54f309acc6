@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
-  "updatedAt": "2026-09-19T22:56:48Z",
+  "revision": 6,
+  "updatedAt": "2026-09-19T23:13:57Z",
   "series": [
     {
       "id": "behzat",
@@ -1502,6 +1502,57 @@
           "title": "Behind the Eyes",
           "source": "https://www.diziyou.one/prison-break-5-sezon-9-bolum/",
           "durationMs": 0
+        }
+      ]
+    },
+    {
+      "id": "chernobyl",
+      "title": "Chernobyl",
+      "subtitle": "Türkçe dublaj · 5 bölüm",
+      "provider": "diziyou-tr",
+      "accent": "#AAC492",
+      "artwork": "grid",
+      "coverUrl": "https://www.diziyou.one/wp-content/uploads/player/chernobyl.webp",
+      "episodes": [
+        {
+          "id": "diziyou:chernobyl:s1:e1",
+          "season": 1,
+          "number": 1,
+          "title": "1:23:45",
+          "source": "https://www.diziyou.one/chernobyl-1-sezon-1-bolum/",
+          "durationMs": 3532806
+        },
+        {
+          "id": "diziyou:chernobyl:s1:e2",
+          "season": 1,
+          "number": 2,
+          "title": "Please Remain Calm",
+          "source": "https://www.diziyou.one/chernobyl-1-sezon-2-bolum/",
+          "durationMs": 3894817
+        },
+        {
+          "id": "diziyou:chernobyl:s1:e3",
+          "season": 1,
+          "number": 3,
+          "title": "Open Wide, O Earth",
+          "source": "https://www.diziyou.one/chernobyl-1-sezon-3-bolum/",
+          "durationMs": 3705824
+        },
+        {
+          "id": "diziyou:chernobyl:s1:e4",
+          "season": 1,
+          "number": 4,
+          "title": "The Happiness of All Mankind",
+          "source": "https://www.diziyou.one/chernobyl-1-sezon-4-bolum/",
+          "durationMs": 3897444
+        },
+        {
+          "id": "diziyou:chernobyl:s1:e5",
+          "season": 1,
+          "number": 5,
+          "title": "Vichnaya Pamyat",
+          "source": "https://www.diziyou.one/chernobyl-1-sezon-5-bolum/",
+          "durationMs": 4291614
         }
       ]
     }
