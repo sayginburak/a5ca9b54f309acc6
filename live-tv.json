@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-09-19T23:32:40Z",
+  "channels": [
+    {
+      "id": "trt-1",
+      "title": "TRT 1",
+      "group": "Ulusal",
+      "website": "https://www.trt1.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-2",
+      "title": "TRT 2",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.trt2.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-haber",
+      "title": "TRT Haber",
+      "group": "Haber",
+      "website": "https://www.trthaber.com/canli-yayin-izle.html",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-cocuk",
+      "title": "TRT Çocuk",
+      "group": "Çocuk",
+      "website": "https://www.trtcocuk.net.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-diyanet-cocuk",
+      "title": "TRT Diyanet Çocuk",
+      "group": "Çocuk",
+      "website": "https://www.trtdiyanetcocuk.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-belgesel",
+      "title": "TRT Belgesel",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.trtbelgesel.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-muzik",
+      "title": "TRT Müzik",
+      "group": "Müzik",
+      "website": "https://www.trtmuzik.net.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-avaz",
+      "title": "TRT Avaz",
+      "group": "Ulusal",
+      "website": "https://www.trtavaz.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-turk",
+      "title": "TRT Türk",
+      "group": "Ulusal",
+      "website": "https://www.trtturk.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-spor",
+      "title": "TRT Spor",
+      "group": "Spor",
+      "website": "https://www.trtspor.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-spor-yildiz",
+      "title": "TRT Spor Yıldız",
+      "group": "Spor",
+      "website": "https://www.trtspor.com.tr/",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
+        }
+      ]
+    },
+    {
+      "id": "ntv",
+      "title": "NTV",
+      "group": "Haber",
+      "website": "https://www.ntv.com.tr/canli-yayin/ntv",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694"
+        }
+      ]
+    },
+    {
+      "id": "kanal-d",
+      "title": "Kanal D",
+      "group": "Ulusal",
+      "website": "https://www.kanald.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+        }
+      ]
+    },
+    {
+      "id": "star-tv",
+      "title": "Star TV",
+      "group": "Ulusal",
+      "website": "https://www.startv.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9"
+        }
+      ]
+    },
+    {
+      "id": "haberturk",
+      "title": "Habertürk",
+      "group": "Haber",
+      "website": "https://www.haberturk.com/canliyayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
+        }
+      ]
+    },
+    {
+      "id": "halk-tv",
+      "title": "Halk TV",
+      "group": "Haber",
+      "website": "https://halktv.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609"
+        }
+      ]
+    },
+    {
+      "id": "kanal-7",
+      "title": "Kanal 7",
+      "group": "Ulusal",
+      "website": "https://www.kanal7.com/canli-izle",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
+        }
+      ]
+    },
+    {
+      "id": "360",
+      "title": "360",
+      "group": "Ulusal",
+      "website": "https://www.tv360.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "dream-turk",
+      "title": "Dream Türk",
+      "group": "Müzik",
+      "website": "https://www.dreamturk.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk",
+      "title": "PowerTürk TV",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-tv",
+      "title": "Power TV",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tv8",
+      "title": "TV8",
+      "group": "Ulusal",
+      "website": "https://www.tv8.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+        }
+      ]
+    },
+    {
+      "id": "cnbc-e",
+      "title": "CNBC-e",
+      "group": "Haber",
+      "website": "https://www.cnbce.com/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tvnet",
+      "title": "TVNET",
+      "group": "Haber",
+      "website": "https://www.tvnet.com.tr/canli-yayin",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kral-pop",
+      "title": "Kral Pop TV",
+      "group": "Müzik",
+      "website": "https://www.kralmuzik.com.tr/tv/kral-pop-tv",
+      "logoUrl": "",
+      "sources": [
+        {
+          "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128"
+        }
+      ]
+    }
+  ]
+}
