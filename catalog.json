@@ -1545,8 +1545,8 @@
           "id": "audit-mp4:s1:e1",
           "season": 1,
           "number": 1,
-          "title": "Sintel fragmanı",
-          "source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+          "title": "Big Buck Bunny örneği",
+          "source": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
           "durationMs": 0
         }
       ]
