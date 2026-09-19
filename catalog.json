@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-09-20T12:00:00Z",
+  "revision": 2,
+  "updatedAt": "2026-09-19T22:42:16Z",
   "series": [
     {
       "id": "behzat",
@@ -1501,6 +1501,52 @@
           "number": 9,
           "title": "Behind the Eyes",
           "source": "https://www.diziyou.one/prison-break-5-sezon-9-bolum/",
+          "durationMs": 0
+        }
+      ]
+    },
+    {
+      "id": "audit-hls",
+      "title": "Katalog denemesi HLS",
+      "subtitle": "İki bölüm · doğrudan yayın",
+      "provider": "direct-hls",
+      "accent": "#80C5B5",
+      "artwork": "grid",
+      "coverUrl": "https://img-puhutv.mncdn.com/media/img/640x360/19-06/24/16x9_behzat-c-1-1561407333.jpg",
+      "episodes": [
+        {
+          "id": "audit-hls:s1:e1",
+          "season": 1,
+          "number": 1,
+          "title": "Deneme 1",
+          "source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "durationMs": 0
+        },
+        {
+          "id": "audit-hls:s1:e2",
+          "season": 1,
+          "number": 2,
+          "title": "Deneme 2",
+          "source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "durationMs": 0
+        }
+      ]
+    },
+    {
+      "id": "audit-mp4",
+      "title": "Katalog denemesi MP4",
+      "subtitle": "Kapak yoksa yerleşik desen",
+      "provider": "direct-mp4",
+      "accent": "#AFB5F1",
+      "artwork": "city",
+      "coverUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/missing-cover.jpg",
+      "episodes": [
+        {
+          "id": "audit-mp4:s1:e1",
+          "season": 1,
+          "number": 1,
+          "title": "Sintel fragmanı",
+          "source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
           "durationMs": 0
         }
       ]
