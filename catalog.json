@@ -1,0 +1,1509 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-09-20T12:00:00Z",
+  "series": [
+    {
+      "id": "behzat",
+      "title": "Behzat Ç.",
+      "subtitle": "Bir Ankara Polisiyesi",
+      "provider": "puhutv",
+      "accent": "#E9B96B",
+      "artwork": "city",
+      "coverUrl": "https://img-puhutv.mncdn.com/media/img/640x360/19-06/24/16x9_behzat-c-1-1561407333.jpg",
+      "episodes": [
+        {
+          "id": "1303",
+          "season": 1,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://puhutv.com/behzat-c-1-bolum-izle",
+          "durationMs": 6582000
+        },
+        {
+          "id": "1304",
+          "season": 1,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://puhutv.com/behzat-c-2-bolum-izle",
+          "durationMs": 5679000
+        },
+        {
+          "id": "1301",
+          "season": 1,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://puhutv.com/behzat-c-3-bolum-izle",
+          "durationMs": 6102000
+        },
+        {
+          "id": "1305",
+          "season": 1,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://puhutv.com/behzat-c-4-bolum-izle",
+          "durationMs": 5103000
+        },
+        {
+          "id": "1302",
+          "season": 1,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://puhutv.com/behzat-c-5-bolum-izle",
+          "durationMs": 5103000
+        },
+        {
+          "id": "1306",
+          "season": 1,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://puhutv.com/behzat-c-6-bolum-izle",
+          "durationMs": 5495000
+        },
+        {
+          "id": "1307",
+          "season": 1,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://puhutv.com/behzat-c-7-bolum-izle",
+          "durationMs": 5237000
+        },
+        {
+          "id": "1310",
+          "season": 1,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://puhutv.com/behzat-c-8-bolum-izle",
+          "durationMs": 5245000
+        },
+        {
+          "id": "1309",
+          "season": 1,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://puhutv.com/behzat-c-9-bolum-izle",
+          "durationMs": 5949000
+        },
+        {
+          "id": "1308",
+          "season": 1,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://puhutv.com/behzat-c-10-bolum-izle",
+          "durationMs": 6468000
+        },
+        {
+          "id": "1312",
+          "season": 1,
+          "number": 11,
+          "title": "11. Bölüm",
+          "source": "https://puhutv.com/behzat-c-11-bolum-izle",
+          "durationMs": 6363000
+        },
+        {
+          "id": "1311",
+          "season": 1,
+          "number": 12,
+          "title": "12. Bölüm",
+          "source": "https://puhutv.com/behzat-c-12-bolum-izle",
+          "durationMs": 5897000
+        },
+        {
+          "id": "1313",
+          "season": 1,
+          "number": 13,
+          "title": "13. Bölüm",
+          "source": "https://puhutv.com/behzat-c-13-bolum-izle",
+          "durationMs": 5333000
+        },
+        {
+          "id": "1316",
+          "season": 1,
+          "number": 14,
+          "title": "14. Bölüm",
+          "source": "https://puhutv.com/behzat-c-14-bolum-izle",
+          "durationMs": 5992000
+        },
+        {
+          "id": "1317",
+          "season": 1,
+          "number": 15,
+          "title": "15. Bölüm",
+          "source": "https://puhutv.com/behzat-c-15-bolum-izle",
+          "durationMs": 6088000
+        },
+        {
+          "id": "1314",
+          "season": 1,
+          "number": 16,
+          "title": "16. Bölüm",
+          "source": "https://puhutv.com/behzat-c-16-bolum-izle",
+          "durationMs": 5890000
+        },
+        {
+          "id": "1315",
+          "season": 1,
+          "number": 17,
+          "title": "17. Bölüm",
+          "source": "https://puhutv.com/behzat-c-17-bolum-izle",
+          "durationMs": 5999000
+        },
+        {
+          "id": "1318",
+          "season": 1,
+          "number": 18,
+          "title": "18. Bölüm",
+          "source": "https://puhutv.com/behzat-c-18-bolum-izle",
+          "durationMs": 5316000
+        },
+        {
+          "id": "1320",
+          "season": 1,
+          "number": 19,
+          "title": "19. Bölüm",
+          "source": "https://puhutv.com/behzat-c-19-bolum-izle",
+          "durationMs": 6718000
+        },
+        {
+          "id": "1321",
+          "season": 1,
+          "number": 20,
+          "title": "20. Bölüm",
+          "source": "https://puhutv.com/behzat-c-20-bolum-izle",
+          "durationMs": 5912000
+        },
+        {
+          "id": "1322",
+          "season": 1,
+          "number": 21,
+          "title": "21. Bölüm",
+          "source": "https://puhutv.com/behzat-c-21-bolum-izle",
+          "durationMs": 6436000
+        },
+        {
+          "id": "1319",
+          "season": 1,
+          "number": 22,
+          "title": "22. Bölüm",
+          "source": "https://puhutv.com/behzat-c-22-bolum-izle",
+          "durationMs": 5485000
+        },
+        {
+          "id": "1323",
+          "season": 1,
+          "number": 23,
+          "title": "23. Bölüm",
+          "source": "https://puhutv.com/behzat-c-23-bolum-izle",
+          "durationMs": 5347000
+        },
+        {
+          "id": "1324",
+          "season": 1,
+          "number": 24,
+          "title": "24. Bölüm",
+          "source": "https://puhutv.com/behzat-c-24-bolum-izle",
+          "durationMs": 5746000
+        },
+        {
+          "id": "1325",
+          "season": 1,
+          "number": 25,
+          "title": "25. Bölüm",
+          "source": "https://puhutv.com/behzat-c-25-bolum-izle",
+          "durationMs": 5286000
+        },
+        {
+          "id": "1326",
+          "season": 1,
+          "number": 26,
+          "title": "26. Bölüm",
+          "source": "https://puhutv.com/behzat-c-26-bolum-izle",
+          "durationMs": 5271000
+        },
+        {
+          "id": "1328",
+          "season": 1,
+          "number": 27,
+          "title": "27. Bölüm",
+          "source": "https://puhutv.com/behzat-c-27-bolum-izle",
+          "durationMs": 5397000
+        },
+        {
+          "id": "1327",
+          "season": 1,
+          "number": 28,
+          "title": "28. Bölüm",
+          "source": "https://puhutv.com/behzat-c-28-bolum-izle",
+          "durationMs": 6084000
+        },
+        {
+          "id": "1329",
+          "season": 1,
+          "number": 29,
+          "title": "29. Bölüm",
+          "source": "https://puhutv.com/behzat-c-29-bolum-izle",
+          "durationMs": 5326000
+        },
+        {
+          "id": "1330",
+          "season": 1,
+          "number": 30,
+          "title": "30. Bölüm",
+          "source": "https://puhutv.com/behzat-c-30-bolum-izle",
+          "durationMs": 6543000
+        },
+        {
+          "id": "1333",
+          "season": 1,
+          "number": 31,
+          "title": "31. Bölüm",
+          "source": "https://puhutv.com/behzat-c-31-bolum-izle",
+          "durationMs": 6200000
+        },
+        {
+          "id": "1332",
+          "season": 1,
+          "number": 32,
+          "title": "32. Bölüm",
+          "source": "https://puhutv.com/behzat-c-32-bolum-izle",
+          "durationMs": 7082000
+        },
+        {
+          "id": "1334",
+          "season": 1,
+          "number": 33,
+          "title": "33. Bölüm",
+          "source": "https://puhutv.com/behzat-c-33-bolum-izle",
+          "durationMs": 5841000
+        },
+        {
+          "id": "1331",
+          "season": 1,
+          "number": 34,
+          "title": "34. Bölüm",
+          "source": "https://puhutv.com/behzat-c-34-bolum-izle",
+          "durationMs": 5953000
+        },
+        {
+          "id": "1336",
+          "season": 1,
+          "number": 35,
+          "title": "35. Bölüm",
+          "source": "https://puhutv.com/behzat-c-35-bolum-izle",
+          "durationMs": 5420000
+        },
+        {
+          "id": "1335",
+          "season": 1,
+          "number": 36,
+          "title": "36. Bölüm",
+          "source": "https://puhutv.com/behzat-c-36-bolum-izle",
+          "durationMs": 6080000
+        },
+        {
+          "id": "1337",
+          "season": 1,
+          "number": 37,
+          "title": "37. Bölüm",
+          "source": "https://puhutv.com/behzat-c-37-bolum-izle",
+          "durationMs": 5288000
+        },
+        {
+          "id": "1338",
+          "season": 1,
+          "number": 38,
+          "title": "38. Bölüm",
+          "source": "https://puhutv.com/behzat-c-38-bolum-izle",
+          "durationMs": 7185000
+        },
+        {
+          "id": "1340",
+          "season": 2,
+          "number": 39,
+          "title": "39. Bölüm",
+          "source": "https://puhutv.com/behzat-c-39-bolum-izle",
+          "durationMs": 5838000
+        },
+        {
+          "id": "1342",
+          "season": 2,
+          "number": 40,
+          "title": "40. Bölüm",
+          "source": "https://puhutv.com/behzat-c-40-bolum-izle",
+          "durationMs": 5688000
+        },
+        {
+          "id": "1339",
+          "season": 2,
+          "number": 41,
+          "title": "41. Bölüm",
+          "source": "https://puhutv.com/behzat-c-41-bolum-izle",
+          "durationMs": 5791000
+        },
+        {
+          "id": "1343",
+          "season": 2,
+          "number": 42,
+          "title": "42. Bölüm",
+          "source": "https://puhutv.com/behzat-c-42-bolum-izle",
+          "durationMs": 5354000
+        },
+        {
+          "id": "1341",
+          "season": 2,
+          "number": 43,
+          "title": "43. Bölüm",
+          "source": "https://puhutv.com/behzat-c-43-bolum-izle",
+          "durationMs": 5939000
+        },
+        {
+          "id": "1344",
+          "season": 2,
+          "number": 44,
+          "title": "44. Bölüm",
+          "source": "https://puhutv.com/behzat-c-44-bolum-izle",
+          "durationMs": 5557000
+        },
+        {
+          "id": "1346",
+          "season": 2,
+          "number": 45,
+          "title": "45. Bölüm",
+          "source": "https://puhutv.com/behzat-c-45-bolum-izle",
+          "durationMs": 6188000
+        },
+        {
+          "id": "1347",
+          "season": 2,
+          "number": 46,
+          "title": "46. Bölüm",
+          "source": "https://puhutv.com/behzat-c-46-bolum-izle",
+          "durationMs": 5383000
+        },
+        {
+          "id": "1345",
+          "season": 2,
+          "number": 47,
+          "title": "47. Bölüm",
+          "source": "https://puhutv.com/behzat-c-47-bolum-izle",
+          "durationMs": 4317000
+        },
+        {
+          "id": "1349",
+          "season": 2,
+          "number": 48,
+          "title": "48. Bölüm",
+          "source": "https://puhutv.com/behzat-c-48-bolum-izle",
+          "durationMs": 5128000
+        },
+        {
+          "id": "1348",
+          "season": 2,
+          "number": 49,
+          "title": "49. Bölüm",
+          "source": "https://puhutv.com/behzat-c-49-bolum-izle",
+          "durationMs": 5162000
+        },
+        {
+          "id": "1350",
+          "season": 2,
+          "number": 50,
+          "title": "50. Bölüm",
+          "source": "https://puhutv.com/behzat-c-50-bolum-izle",
+          "durationMs": 4760000
+        },
+        {
+          "id": "1351",
+          "season": 2,
+          "number": 51,
+          "title": "51. Bölüm",
+          "source": "https://puhutv.com/behzat-c-51-bolum-izle",
+          "durationMs": 5045000
+        },
+        {
+          "id": "1352",
+          "season": 2,
+          "number": 52,
+          "title": "52. Bölüm",
+          "source": "https://puhutv.com/behzat-c-52-bolum-izle",
+          "durationMs": 5293000
+        },
+        {
+          "id": "1353",
+          "season": 2,
+          "number": 53,
+          "title": "53. Bölüm",
+          "source": "https://puhutv.com/behzat-c-53-bolum-izle",
+          "durationMs": 4814000
+        },
+        {
+          "id": "1354",
+          "season": 2,
+          "number": 54,
+          "title": "54. Bölüm",
+          "source": "https://puhutv.com/behzat-c-54-bolum-izle",
+          "durationMs": 4837000
+        },
+        {
+          "id": "1356",
+          "season": 2,
+          "number": 55,
+          "title": "55. Bölüm",
+          "source": "https://puhutv.com/behzat-c-55-bolum-izle",
+          "durationMs": 5438000
+        },
+        {
+          "id": "1355",
+          "season": 2,
+          "number": 56,
+          "title": "56. Bölüm",
+          "source": "https://puhutv.com/behzat-c-56-bolum-izle",
+          "durationMs": 5104000
+        },
+        {
+          "id": "1357",
+          "season": 2,
+          "number": 57,
+          "title": "57. Bölüm",
+          "source": "https://puhutv.com/behzat-c-57-bolum-izle",
+          "durationMs": 5722000
+        },
+        {
+          "id": "1358",
+          "season": 2,
+          "number": 58,
+          "title": "58. Bölüm",
+          "source": "https://puhutv.com/behzat-c-58-bolum-izle",
+          "durationMs": 5043000
+        },
+        {
+          "id": "1360",
+          "season": 2,
+          "number": 59,
+          "title": "59. Bölüm",
+          "source": "https://puhutv.com/behzat-c-59-bolum-izle",
+          "durationMs": 5221000
+        },
+        {
+          "id": "1361",
+          "season": 2,
+          "number": 60,
+          "title": "60. Bölüm",
+          "source": "https://puhutv.com/behzat-c-60-bolum-izle",
+          "durationMs": 5981000
+        },
+        {
+          "id": "1362",
+          "season": 2,
+          "number": 61,
+          "title": "61. Bölüm",
+          "source": "https://puhutv.com/behzat-c-61-bolum-izle",
+          "durationMs": 5693000
+        },
+        {
+          "id": "1359",
+          "season": 2,
+          "number": 62,
+          "title": "62. Bölüm",
+          "source": "https://puhutv.com/behzat-c-62-bolum-izle",
+          "durationMs": 5638000
+        },
+        {
+          "id": "1363",
+          "season": 2,
+          "number": 63,
+          "title": "63. Bölüm",
+          "source": "https://puhutv.com/behzat-c-63-bolum-izle",
+          "durationMs": 4800000
+        },
+        {
+          "id": "1365",
+          "season": 2,
+          "number": 64,
+          "title": "64. Bölüm",
+          "source": "https://puhutv.com/behzat-c-64-bolum-izle",
+          "durationMs": 4694000
+        },
+        {
+          "id": "1364",
+          "season": 2,
+          "number": 65,
+          "title": "65. Bölüm",
+          "source": "https://puhutv.com/behzat-c-65-bolum-izle",
+          "durationMs": 4877000
+        },
+        {
+          "id": "1368",
+          "season": 2,
+          "number": 66,
+          "title": "66. Bölüm",
+          "source": "https://puhutv.com/behzat-c-66-bolum-izle",
+          "durationMs": 5102000
+        },
+        {
+          "id": "1366",
+          "season": 2,
+          "number": 67,
+          "title": "67. Bölüm",
+          "source": "https://puhutv.com/behzat-c-67-bolum-izle",
+          "durationMs": 5759000
+        },
+        {
+          "id": "1367",
+          "season": 2,
+          "number": 68,
+          "title": "68. Bölüm",
+          "source": "https://puhutv.com/behzat-c-68-bolum-izle",
+          "durationMs": 5000000
+        },
+        {
+          "id": "1370",
+          "season": 2,
+          "number": 69,
+          "title": "69. Bölüm",
+          "source": "https://puhutv.com/behzat-c-69-bolum-izle",
+          "durationMs": 6504000
+        },
+        {
+          "id": "1369",
+          "season": 3,
+          "number": 70,
+          "title": "70. Bölüm",
+          "source": "https://puhutv.com/behzat-c-70-bolum-izle",
+          "durationMs": 4278000
+        },
+        {
+          "id": "1371",
+          "season": 3,
+          "number": 71,
+          "title": "71. Bölüm",
+          "source": "https://puhutv.com/behzat-c-71-bolum-izle",
+          "durationMs": 3969000
+        },
+        {
+          "id": "1372",
+          "season": 3,
+          "number": 72,
+          "title": "72. Bölüm",
+          "source": "https://puhutv.com/behzat-c-72-bolum-izle",
+          "durationMs": 3859000
+        },
+        {
+          "id": "1373",
+          "season": 3,
+          "number": 73,
+          "title": "73. Bölüm",
+          "source": "https://puhutv.com/behzat-c-73-bolum-izle",
+          "durationMs": 3930000
+        },
+        {
+          "id": "1376",
+          "season": 3,
+          "number": 74,
+          "title": "74. Bölüm",
+          "source": "https://puhutv.com/behzat-c-74-bolum-izle",
+          "durationMs": 4126000
+        },
+        {
+          "id": "1375",
+          "season": 3,
+          "number": 75,
+          "title": "75. Bölüm",
+          "source": "https://puhutv.com/behzat-c-75-bolum-izle",
+          "durationMs": 3940000
+        },
+        {
+          "id": "1377",
+          "season": 3,
+          "number": 76,
+          "title": "76. Bölüm",
+          "source": "https://puhutv.com/behzat-c-76-bolum-izle",
+          "durationMs": 3978000
+        },
+        {
+          "id": "1374",
+          "season": 3,
+          "number": 77,
+          "title": "77. Bölüm",
+          "source": "https://puhutv.com/behzat-c-77-bolum-izle",
+          "durationMs": 3977000
+        },
+        {
+          "id": "8270",
+          "season": 3,
+          "number": 78,
+          "title": "78. Bölüm",
+          "source": "https://puhutv.com/behzat-c-78-bolum-sansursuz-izle",
+          "durationMs": 4409000
+        },
+        {
+          "id": "8268",
+          "season": 3,
+          "number": 79,
+          "title": "79. Bölüm",
+          "source": "https://puhutv.com/behzat-c-79-bolum-sansursuz-izle",
+          "durationMs": 4209000
+        },
+        {
+          "id": "8267",
+          "season": 3,
+          "number": 80,
+          "title": "80. Bölüm",
+          "source": "https://puhutv.com/behzat-c-80-bolum-sansursuz-izle",
+          "durationMs": 3808000
+        },
+        {
+          "id": "8269",
+          "season": 3,
+          "number": 81,
+          "title": "81. Bölüm",
+          "source": "https://puhutv.com/behzat-c-81-bolum-sansursuz-izle",
+          "durationMs": 5047000
+        },
+        {
+          "id": "1383",
+          "season": 3,
+          "number": 82,
+          "title": "82. Bölüm",
+          "source": "https://puhutv.com/behzat-c-82-bolum-izle",
+          "durationMs": 4025000
+        },
+        {
+          "id": "1382",
+          "season": 3,
+          "number": 83,
+          "title": "83. Bölüm",
+          "source": "https://puhutv.com/behzat-c-83-bolum-izle",
+          "durationMs": 4195000
+        },
+        {
+          "id": "8272",
+          "season": 3,
+          "number": 84,
+          "title": "84. Bölüm",
+          "source": "https://puhutv.com/behzat-c-84-bolum-sansursuz-izle",
+          "durationMs": 3830000
+        },
+        {
+          "id": "8273",
+          "season": 3,
+          "number": 85,
+          "title": "85. Bölüm",
+          "source": "https://puhutv.com/behzat-c-85-bolum-sansursuz-izle",
+          "durationMs": 4423000
+        },
+        {
+          "id": "8275",
+          "season": 3,
+          "number": 86,
+          "title": "86. Bölüm",
+          "source": "https://puhutv.com/behzat-c-86-bolum-sansursuz-izle",
+          "durationMs": 4551000
+        },
+        {
+          "id": "8276",
+          "season": 3,
+          "number": 87,
+          "title": "87. Bölüm",
+          "source": "https://puhutv.com/behzat-c-87-bolum-sansursuz-izle",
+          "durationMs": 4144000
+        },
+        {
+          "id": "8274",
+          "season": 3,
+          "number": 88,
+          "title": "88. Bölüm",
+          "source": "https://puhutv.com/behzat-c-88-bolum-sansursuz-izle",
+          "durationMs": 3797000
+        },
+        {
+          "id": "8278",
+          "season": 3,
+          "number": 89,
+          "title": "89. Bölüm",
+          "source": "https://puhutv.com/behzat-c-89-bolum-sansursuz-izle",
+          "durationMs": 4213000
+        },
+        {
+          "id": "8277",
+          "season": 3,
+          "number": 90,
+          "title": "90. Bölüm",
+          "source": "https://puhutv.com/behzat-c-90-bolum-sansursuz-izle",
+          "durationMs": 4240000
+        },
+        {
+          "id": "8279",
+          "season": 3,
+          "number": 91,
+          "title": "91. Bölüm",
+          "source": "https://puhutv.com/behzat-c-91-bolum-sansursuz-izle",
+          "durationMs": 3783000
+        },
+        {
+          "id": "8280",
+          "season": 3,
+          "number": 92,
+          "title": "92. Bölüm",
+          "source": "https://puhutv.com/behzat-c-92-bolum-sansursuz-izle",
+          "durationMs": 3675000
+        },
+        {
+          "id": "8281",
+          "season": 3,
+          "number": 93,
+          "title": "93. Bölüm",
+          "source": "https://puhutv.com/behzat-c-93-bolum-sansursuz-izle",
+          "durationMs": 4260000
+        },
+        {
+          "id": "1393",
+          "season": 3,
+          "number": 94,
+          "title": "94. Bölüm",
+          "source": "https://puhutv.com/behzat-c-94-bolum-izle",
+          "durationMs": 4006000
+        },
+        {
+          "id": "8282",
+          "season": 3,
+          "number": 95,
+          "title": "95. Bölüm",
+          "source": "https://puhutv.com/behzat-c-95-bolum-sansursuz-izle",
+          "durationMs": 4234000
+        },
+        {
+          "id": "8283",
+          "season": 3,
+          "number": 96,
+          "title": "96. Bölüm",
+          "source": "https://puhutv.com/behzat-c-96-bolum-sansursuz-izle",
+          "durationMs": 4938000
+        }
+      ]
+    },
+    {
+      "id": "prison-break",
+      "title": "Prison Break",
+      "subtitle": "Türkçe dublaj",
+      "provider": "diziyou-tr",
+      "accent": "#70BFAE",
+      "artwork": "grid",
+      "coverUrl": "https://www.diziyou.one/wp-content/uploads/player/prison-break.webp",
+      "episodes": [
+        {
+          "id": "diziyou:prison-break:s1:e1",
+          "season": 1,
+          "number": 1,
+          "title": "Pilot",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-1-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e2",
+          "season": 1,
+          "number": 2,
+          "title": "Allen",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-2-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e3",
+          "season": 1,
+          "number": 3,
+          "title": "Cell Test",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-3-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e4",
+          "season": 1,
+          "number": 4,
+          "title": "Cute Poison",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-4-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e5",
+          "season": 1,
+          "number": 5,
+          "title": "English, Fitz or Percy",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-5-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e6",
+          "season": 1,
+          "number": 6,
+          "title": "Riots, Drills and the Devil (Part 1)",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-6-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e7",
+          "season": 1,
+          "number": 7,
+          "title": "Riots, Drills and the Devil (Part 2)",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-7-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e8",
+          "season": 1,
+          "number": 8,
+          "title": "The Old Head",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-8-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e9",
+          "season": 1,
+          "number": 9,
+          "title": "Tweener",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-9-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e10",
+          "season": 1,
+          "number": 10,
+          "title": "Sleight of Hand",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-10-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e11",
+          "season": 1,
+          "number": 11,
+          "title": "And Then There Were 7",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-11-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e12",
+          "season": 1,
+          "number": 12,
+          "title": "Odd Man Out",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-12-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e13",
+          "season": 1,
+          "number": 13,
+          "title": "End of the Tunnel",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-13-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e14",
+          "season": 1,
+          "number": 14,
+          "title": "The Rat",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-14-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e15",
+          "season": 1,
+          "number": 15,
+          "title": "By the Skin and the Teeth",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-15-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e16",
+          "season": 1,
+          "number": 16,
+          "title": "Brother's Keeper",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-16-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e17",
+          "season": 1,
+          "number": 17,
+          "title": "J-Cat",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-17-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e18",
+          "season": 1,
+          "number": 18,
+          "title": "Bluff",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-18-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e19",
+          "season": 1,
+          "number": 19,
+          "title": "The Key",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-19-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e20",
+          "season": 1,
+          "number": 20,
+          "title": "Tonight",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-20-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e21",
+          "season": 1,
+          "number": 21,
+          "title": "Go",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-21-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s1:e22",
+          "season": 1,
+          "number": 22,
+          "title": "Flight",
+          "source": "https://www.diziyou.one/prison-break-1-sezon-22-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e1",
+          "season": 2,
+          "number": 1,
+          "title": "Manhunt",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-1-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e2",
+          "season": 2,
+          "number": 2,
+          "title": "Otis",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-2-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e3",
+          "season": 2,
+          "number": 3,
+          "title": "Scan",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-3-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e4",
+          "season": 2,
+          "number": 4,
+          "title": "First Down",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-4-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e5",
+          "season": 2,
+          "number": 5,
+          "title": "Map 1213",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-5-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e6",
+          "season": 2,
+          "number": 6,
+          "title": "Subdivision",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-6-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e7",
+          "season": 2,
+          "number": 7,
+          "title": "Buried",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-7-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e8",
+          "season": 2,
+          "number": 8,
+          "title": "Dead Fall",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-8-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e9",
+          "season": 2,
+          "number": 9,
+          "title": "Unearthed",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-9-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e10",
+          "season": 2,
+          "number": 10,
+          "title": "Rendezvous",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-10-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e11",
+          "season": 2,
+          "number": 11,
+          "title": "Bolshoi Booze",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-11-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e12",
+          "season": 2,
+          "number": 12,
+          "title": "Disconnect",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-12-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e13",
+          "season": 2,
+          "number": 13,
+          "title": "The Killing Box",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-13-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e14",
+          "season": 2,
+          "number": 14,
+          "title": "John Doe",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-14-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e15",
+          "season": 2,
+          "number": 15,
+          "title": "The Message",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-15-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e16",
+          "season": 2,
+          "number": 16,
+          "title": "Chicago",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-16-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e17",
+          "season": 2,
+          "number": 17,
+          "title": "Bad Blood",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-17-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e18",
+          "season": 2,
+          "number": 18,
+          "title": "Wash",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-18-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e19",
+          "season": 2,
+          "number": 19,
+          "title": "Sweet Caroline",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-19-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e20",
+          "season": 2,
+          "number": 20,
+          "title": "Panama",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-20-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e21",
+          "season": 2,
+          "number": 21,
+          "title": "Fin Del Camino",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-21-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s2:e22",
+          "season": 2,
+          "number": 22,
+          "title": "Sona",
+          "source": "https://www.diziyou.one/prison-break-2-sezon-22-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e1",
+          "season": 3,
+          "number": 1,
+          "title": "Orientación",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-1-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e2",
+          "season": 3,
+          "number": 2,
+          "title": "Fire/Water",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-2-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e3",
+          "season": 3,
+          "number": 3,
+          "title": "Call Waiting",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-3-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e4",
+          "season": 3,
+          "number": 4,
+          "title": "Good Fences",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-4-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e5",
+          "season": 3,
+          "number": 5,
+          "title": "Interference",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-5-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e6",
+          "season": 3,
+          "number": 6,
+          "title": "Photo Finish",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-6-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e7",
+          "season": 3,
+          "number": 7,
+          "title": "Vamonos",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-7-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e8",
+          "season": 3,
+          "number": 8,
+          "title": "Bang and Burn",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-8-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e9",
+          "season": 3,
+          "number": 9,
+          "title": "Boxed In",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-9-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e10",
+          "season": 3,
+          "number": 10,
+          "title": "Dirt Nap",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-10-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e11",
+          "season": 3,
+          "number": 11,
+          "title": "Under and Out",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-11-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e12",
+          "season": 3,
+          "number": 12,
+          "title": "Hell or High Water",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-12-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s3:e13",
+          "season": 3,
+          "number": 13,
+          "title": "The Art of the Deal",
+          "source": "https://www.diziyou.one/prison-break-3-sezon-13-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e1",
+          "season": 4,
+          "number": 1,
+          "title": "Scylla",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-1-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e2",
+          "season": 4,
+          "number": 2,
+          "title": "Breaking & Entering",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-2-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e3",
+          "season": 4,
+          "number": 3,
+          "title": "Shut Down",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-3-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e4",
+          "season": 4,
+          "number": 4,
+          "title": "Eagles & Angels",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-4-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e5",
+          "season": 4,
+          "number": 5,
+          "title": "Safe & Sound",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-5-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e6",
+          "season": 4,
+          "number": 6,
+          "title": "Blow Out",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-6-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e7",
+          "season": 4,
+          "number": 7,
+          "title": "Five the Hard Way",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-7-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e8",
+          "season": 4,
+          "number": 8,
+          "title": "The Price",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-8-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e9",
+          "season": 4,
+          "number": 9,
+          "title": "Greatness Achieved",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-9-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e10",
+          "season": 4,
+          "number": 10,
+          "title": "The Legend",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-10-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e11",
+          "season": 4,
+          "number": 11,
+          "title": "Quiet Riot",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-11-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e12",
+          "season": 4,
+          "number": 12,
+          "title": "Selfless",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-12-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e13",
+          "season": 4,
+          "number": 13,
+          "title": "Deal Or No Deal",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-13-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e14",
+          "season": 4,
+          "number": 14,
+          "title": "Just Business",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-14-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e15",
+          "season": 4,
+          "number": 15,
+          "title": "Going Under",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-15-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e16",
+          "season": 4,
+          "number": 16,
+          "title": "The Sunshine State",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-16-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e17",
+          "season": 4,
+          "number": 17,
+          "title": "The Mother Lode",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-17-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e18",
+          "season": 4,
+          "number": 18,
+          "title": "VS.",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-18-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e19",
+          "season": 4,
+          "number": 19,
+          "title": "S.O.B.",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-19-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e20",
+          "season": 4,
+          "number": 20,
+          "title": "Cowboys & Indians",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-20-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e21",
+          "season": 4,
+          "number": 21,
+          "title": "Rate of Exchange",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-21-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e22",
+          "season": 4,
+          "number": 22,
+          "title": "Killing Your Number",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-22-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s4:e23",
+          "season": 4,
+          "number": 23,
+          "title": "The Old Ball and Chain",
+          "source": "https://www.diziyou.one/prison-break-4-sezon-23-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e1",
+          "season": 5,
+          "number": 1,
+          "title": "Ogygia",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-1-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e2",
+          "season": 5,
+          "number": 2,
+          "title": "Kaniel Outis",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-2-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e3",
+          "season": 5,
+          "number": 3,
+          "title": "The Liar",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-3-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e4",
+          "season": 5,
+          "number": 4,
+          "title": "The Prisoner's Dilemma",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-4-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e5",
+          "season": 5,
+          "number": 5,
+          "title": "Contingency",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-5-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e6",
+          "season": 5,
+          "number": 6,
+          "title": "Phaeacia",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-6-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e7",
+          "season": 5,
+          "number": 7,
+          "title": "Wine Dark Sea",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-7-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e8",
+          "season": 5,
+          "number": 8,
+          "title": "Progeny",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-8-bolum/",
+          "durationMs": 0
+        },
+        {
+          "id": "diziyou:prison-break:s5:e9",
+          "season": 5,
+          "number": 9,
+          "title": "Behind the Eyes",
+          "source": "https://www.diziyou.one/prison-break-5-sezon-9-bolum/",
+          "durationMs": 0
+        }
+      ]
+    }
+  ]
+}
