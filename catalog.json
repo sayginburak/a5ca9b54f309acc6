@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
-  "updatedAt": "2026-09-20T21:47:29Z",
+  "revision": 9,
+  "updatedAt": "2026-09-20T21:51:06Z",
   "series": [
     {
       "id": "behzat",
@@ -1591,6 +1591,257 @@
           "source": "https://filmmakinesi.to/film/vizontele-izle-2001-fm2/",
           "durationMs": 0,
           "id": "filmmakinesi-vizontele-izle-2001-fm2:s1:e1"
+        }
+      ]
+    },
+    {
+      "id": "diziyou-tr-narcos",
+      "title": "Narcos",
+      "subtitle": "Türkçe dublaj",
+      "provider": "diziyou-tr",
+      "accent": "#8BB9CF",
+      "artwork": "grid",
+      "coverUrl": "https://cdn.diziyou.one/wp-content/uploads/posters/narcos.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Descenso",
+          "source": "https://www.diziyou.one/narcos-1-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "The Sword of Simón Bolívar",
+          "source": "https://www.diziyou.one/narcos-1-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "The Men of Always",
+          "source": "https://www.diziyou.one/narcos-1-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "The Palace in Flames",
+          "source": "https://www.diziyou.one/narcos-1-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "There Will Be a Future",
+          "source": "https://www.diziyou.one/narcos-1-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "Explosivos",
+          "source": "https://www.diziyou.one/narcos-1-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "You Will Cry Tears of Blood",
+          "source": "https://www.diziyou.one/narcos-1-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "La Gran Mentira",
+          "source": "https://www.diziyou.one/narcos-1-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "La Catedral",
+          "source": "https://www.diziyou.one/narcos-1-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "Despegue",
+          "source": "https://www.diziyou.one/narcos-1-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s1:e10"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "title": "Free at Last",
+          "source": "https://www.diziyou.one/narcos-2-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "title": "Cambalache",
+          "source": "https://www.diziyou.one/narcos-2-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "title": "Our Man in Madrid",
+          "source": "https://www.diziyou.one/narcos-2-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "title": "The Good, The Bad, and The Dead",
+          "source": "https://www.diziyou.one/narcos-2-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "title": "The Enemies of My Enemy",
+          "source": "https://www.diziyou.one/narcos-2-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "title": "Los Pepes",
+          "source": "https://www.diziyou.one/narcos-2-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "title": "Deutschland 93",
+          "source": "https://www.diziyou.one/narcos-2-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "title": "Exit El Patrón",
+          "source": "https://www.diziyou.one/narcos-2-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "title": "Nuestra Finca",
+          "source": "https://www.diziyou.one/narcos-2-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "title": "Al Fin Cayó!",
+          "source": "https://www.diziyou.one/narcos-2-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s2:e10"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "title": "The Kingpin Strategy",
+          "source": "https://www.diziyou.one/narcos-3-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "title": "The Cali KGB",
+          "source": "https://www.diziyou.one/narcos-3-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "title": "Follow the Money",
+          "source": "https://www.diziyou.one/narcos-3-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "title": "Checkmate",
+          "source": "https://www.diziyou.one/narcos-3-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "title": "MRO",
+          "source": "https://www.diziyou.one/narcos-3-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "title": "Best Laid Plans",
+          "source": "https://www.diziyou.one/narcos-3-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "title": "Sin Salida",
+          "source": "https://www.diziyou.one/narcos-3-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "title": "Convivir",
+          "source": "https://www.diziyou.one/narcos-3-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "title": "Todos Los Hombres del Presidente",
+          "source": "https://www.diziyou.one/narcos-3-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "title": "Going Back to Cali",
+          "source": "https://www.diziyou.one/narcos-3-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
     }
