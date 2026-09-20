@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 6,
-  "updatedAt": "2026-09-19T23:13:57Z",
+  "revision": 7,
+  "updatedAt": "2026-09-20T18:58:22Z",
   "series": [
     {
       "id": "behzat",
@@ -1553,6 +1553,25 @@
           "title": "Vichnaya Pamyat",
           "source": "https://www.diziyou.one/chernobyl-1-sezon-5-bolum/",
           "durationMs": 4291614
+        }
+      ]
+    },
+    {
+      "id": "21-2008",
+      "title": "21 (2008)",
+      "subtitle": "Film · 123 dakika · Türkçe / İngilizce ses",
+      "provider": "filmmakinesi",
+      "accent": "#C9944A",
+      "artwork": "grid",
+      "coverUrl": "https://filmmakinesi.to/uploads/postlar/kapak/21-2008.jpg-thumb-normal.webp",
+      "episodes": [
+        {
+          "id": "filmmakinesi:21-2008",
+          "season": 1,
+          "number": 1,
+          "title": "21 (2008)",
+          "source": "https://filmmakinesi.to/film/21-izle-2008-fm2/",
+          "durationMs": 7380000
         }
       ]
     }
