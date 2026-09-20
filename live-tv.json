@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-09-19T23:32:40Z",
+  "revision": 2,
+  "updatedAt": "2026-09-20T18:54:09Z",
   "channels": [
     {
       "id": "trt-1",
+      "number": 1,
       "title": "TRT 1",
       "group": "Ulusal",
       "website": "https://www.trt1.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/500px-TRT_1_logo_%282021-%29.svg.png",
       "sources": [
         {
           "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
@@ -17,10 +18,11 @@
     },
     {
       "id": "trt-2",
+      "number": 2,
       "title": "TRT 2",
       "group": "Kültür ve Belgesel",
       "website": "https://www.trt2.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/iOCQdyD.png",
       "sources": [
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
@@ -29,10 +31,11 @@
     },
     {
       "id": "trt-haber",
+      "number": 3,
       "title": "TRT Haber",
       "group": "Haber",
       "website": "https://www.trthaber.com/canli-yayin-izle.html",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
       "sources": [
         {
           "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
@@ -41,10 +44,11 @@
     },
     {
       "id": "trt-cocuk",
+      "number": 4,
       "title": "TRT Çocuk",
       "group": "Çocuk",
       "website": "https://www.trtcocuk.net.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
       "sources": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
@@ -53,10 +57,11 @@
     },
     {
       "id": "trt-diyanet-cocuk",
+      "number": 5,
       "title": "TRT Diyanet Çocuk",
       "group": "Çocuk",
       "website": "https://www.trtdiyanetcocuk.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/8PmXz9t.png",
       "sources": [
         {
           "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
@@ -65,10 +70,11 @@
     },
     {
       "id": "trt-belgesel",
+      "number": 6,
       "title": "TRT Belgesel",
       "group": "Kültür ve Belgesel",
       "website": "https://www.trtbelgesel.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
       "sources": [
         {
           "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
@@ -77,10 +83,11 @@
     },
     {
       "id": "trt-muzik",
+      "number": 7,
       "title": "TRT Müzik",
       "group": "Müzik",
       "website": "https://www.trtmuzik.net.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/JgUzRH8.png",
       "sources": [
         {
           "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
@@ -89,10 +96,11 @@
     },
     {
       "id": "trt-avaz",
+      "number": 8,
       "title": "TRT Avaz",
       "group": "Ulusal",
       "website": "https://www.trtavaz.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/500px-TRT_Avaz_logo.svg.png",
       "sources": [
         {
           "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
@@ -101,10 +109,11 @@
     },
     {
       "id": "trt-turk",
+      "number": 9,
       "title": "TRT Türk",
       "group": "Ulusal",
       "website": "https://www.trtturk.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png",
       "sources": [
         {
           "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
@@ -113,10 +122,11 @@
     },
     {
       "id": "trt-spor",
+      "number": 10,
       "title": "TRT Spor",
       "group": "Spor",
       "website": "https://www.trtspor.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/6tv0zxh.png",
       "sources": [
         {
           "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
@@ -125,10 +135,11 @@
     },
     {
       "id": "trt-spor-yildiz",
+      "number": 11,
       "title": "TRT Spor Yıldız",
       "group": "Spor",
       "website": "https://www.trtspor.com.tr/",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/500px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
       "sources": [
         {
           "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
@@ -137,10 +148,11 @@
     },
     {
       "id": "ntv",
+      "number": 12,
       "title": "NTV",
       "group": "Haber",
       "website": "https://www.ntv.com.tr/canli-yayin/ntv",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/500px-NTV_%28Turkey%29_logo.svg.png",
       "sources": [
         {
           "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694"
@@ -149,10 +161,11 @@
     },
     {
       "id": "kanal-d",
+      "number": 13,
       "title": "Kanal D",
       "group": "Ulusal",
       "website": "https://www.kanald.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/9o1atM6.png",
       "sources": [
         {
           "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
@@ -161,10 +174,11 @@
     },
     {
       "id": "star-tv",
+      "number": 14,
       "title": "Star TV",
       "group": "Ulusal",
       "website": "https://www.startv.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/9O3DHRB.png",
       "sources": [
         {
           "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9"
@@ -173,10 +187,11 @@
     },
     {
       "id": "haberturk",
+      "number": 15,
       "title": "Habertürk",
       "group": "Haber",
       "website": "https://www.haberturk.com/canliyayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/6Tw3rUp.png",
       "sources": [
         {
           "url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
@@ -185,10 +200,11 @@
     },
     {
       "id": "halk-tv",
+      "number": 16,
       "title": "Halk TV",
       "group": "Haber",
       "website": "https://halktv.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/xM0HA30.png",
       "sources": [
         {
           "url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609"
@@ -197,10 +213,11 @@
     },
     {
       "id": "kanal-7",
+      "number": 17,
       "title": "Kanal 7",
       "group": "Ulusal",
       "website": "https://www.kanal7.com/canli-izle",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/0gq9xOm.png",
       "sources": [
         {
           "url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
@@ -209,10 +226,11 @@
     },
     {
       "id": "360",
+      "number": 18,
       "title": "360",
       "group": "Ulusal",
       "website": "https://www.tv360.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/agn47sQ.png",
       "sources": [
         {
           "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8"
@@ -221,10 +239,11 @@
     },
     {
       "id": "dream-turk",
+      "number": 19,
       "title": "Dream Türk",
       "group": "Müzik",
       "website": "https://www.dreamturk.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/vJ8VaZi.png",
       "sources": [
         {
           "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
@@ -233,10 +252,11 @@
     },
     {
       "id": "power-turk",
+      "number": 20,
       "title": "PowerTürk TV",
       "group": "Müzik",
       "website": "https://www.powerapp.com.tr/tvs/power-tvs",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/9OPoXQG.png",
       "sources": [
         {
           "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
@@ -245,10 +265,11 @@
     },
     {
       "id": "power-tv",
+      "number": 21,
       "title": "Power TV",
       "group": "Müzik",
       "website": "https://www.powerapp.com.tr/tvs/power-tvs",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/XSL1gd7.png",
       "sources": [
         {
           "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
@@ -257,10 +278,11 @@
     },
     {
       "id": "tv8",
+      "number": 22,
       "title": "TV8",
       "group": "Ulusal",
       "website": "https://www.tv8.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/500px-Tv8_Yeni_Logo.png",
       "sources": [
         {
           "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
@@ -269,10 +291,11 @@
     },
     {
       "id": "cnbc-e",
+      "number": 23,
       "title": "CNBC-e",
       "group": "Haber",
       "website": "https://www.cnbce.com/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://s.cnbce.com/dist/images/logo-nav.png",
       "sources": [
         {
           "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
@@ -281,10 +304,11 @@
     },
     {
       "id": "tvnet",
+      "number": 24,
       "title": "TVNET",
       "group": "Haber",
       "website": "https://www.tvnet.com.tr/canli-yayin",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/mQo8yWQ.png",
       "sources": [
         {
           "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
@@ -293,13 +317,326 @@
     },
     {
       "id": "kral-pop",
+      "number": 25,
       "title": "Kral Pop TV",
       "group": "Müzik",
       "website": "https://www.kralmuzik.com.tr/tv/kral-pop-tv",
-      "logoUrl": "",
+      "logoUrl": "https://i.imgur.com/ch365lh.png",
       "sources": [
         {
           "url": "https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128"
+        }
+      ]
+    },
+    {
+      "id": "atv",
+      "number": 26,
+      "title": "atv",
+      "group": "Ulusal",
+      "website": "https://www.atv.com.tr/",
+      "logoUrl": "https://i.imgur.com/HyVUwFC.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "number": 27,
+      "title": "a2",
+      "group": "Ulusal",
+      "website": "https://www.a2tv.com.tr/",
+      "logoUrl": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "a-haber",
+      "number": 28,
+      "title": "A Haber",
+      "group": "Haber",
+      "website": "https://www.ahaber.com.tr/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ahaber_Logo.png/250px-Ahaber_Logo.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "a-spor",
+      "number": 29,
+      "title": "A Spor",
+      "group": "Spor",
+      "website": "https://www.aspor.com.tr/",
+      "logoUrl": "https://i.imgur.com/ZhkZzLf.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "minika-go",
+      "number": 30,
+      "title": "minika GO",
+      "group": "Çocuk",
+      "website": "https://www.minika.com.tr/",
+      "logoUrl": "https://i.imgur.com/qIoipDq.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "minika-cocuk",
+      "number": 31,
+      "title": "minika ÇOCUK",
+      "group": "Çocuk",
+      "website": "https://www.minika.com.tr/",
+      "logoUrl": "https://i.imgur.com/VCywMTv.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ht-spor",
+      "number": 32,
+      "title": "HT Spor",
+      "group": "Spor",
+      "website": "https://www.htspor.com/",
+      "logoUrl": "https://www.htspor.com/images/manifest/social-share-logo.png",
+      "sources": [
+        {
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
+        }
+      ]
+    },
+    {
+      "id": "bloomberg-ht",
+      "number": 33,
+      "title": "Bloomberg HT",
+      "group": "Haber",
+      "website": "https://www.bloomberght.com/",
+      "logoUrl": "https://i.imgur.com/bmkXfIE.png",
+      "sources": [
+        {
+          "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tv-24",
+      "number": 34,
+      "title": "24 TV",
+      "group": "Haber",
+      "website": "https://www.yirmidort.tv/",
+      "logoUrl": "https://i.imgur.com/8FO41es.png",
+      "sources": [
+        {
+          "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tv-4",
+      "number": 35,
+      "title": "TV4",
+      "group": "Ulusal",
+      "website": "https://www.tv4.com.tr/",
+      "logoUrl": "https://i.imgur.com/UpsQsbd.png",
+      "sources": [
+        {
+          "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-genc",
+      "number": 36,
+      "title": "TRT Genç",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.trtgenc.com.tr/",
+      "logoUrl": "https://i.imgur.com/fCHQYWS.png",
+      "sources": [
+        {
+          "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-eba",
+      "number": 37,
+      "title": "TRT EBA",
+      "group": "Eğitim",
+      "website": "https://www.eba.gov.tr/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/250px-TRT_EBA_TV_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-akustik",
+      "number": 38,
+      "title": "PowerTürk Akustik",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/driabBO.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-slow",
+      "number": 39,
+      "title": "PowerTürk Slow",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/tQSoQXW.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-taptaze",
+      "number": 40,
+      "title": "PowerTürk Taptaze",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/a5nW3HU.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "diyanet-tv",
+      "number": 41,
+      "title": "Diyanet TV",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.diyanet.tv/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/500px-Diyanet_TV_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "gzt",
+      "number": 42,
+      "title": "GZT",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.gzt.com/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/500px-GZT_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "euro-d",
+      "number": 43,
+      "title": "Euro D",
+      "group": "Ulusal",
+      "website": "https://www.eurod.com.tr/",
+      "logoUrl": "https://i.imgur.com/x9kHsXo.png",
+      "sources": [
+        {
+          "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "haber-global",
+      "number": 44,
+      "title": "Haber Global",
+      "group": "Haber",
+      "website": "https://haberglobal.com.tr/",
+      "logoUrl": "https://i.imgur.com/fu6XeGS.png",
+      "sources": [
+        {
+          "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ciftci-tv",
+      "number": 45,
+      "title": "Çiftçi TV",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.ciftcitv.com/",
+      "logoUrl": "https://i.imgur.com/CLzP4vL.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-23",
+      "number": 46,
+      "title": "Kanal 23",
+      "group": "Yerel",
+      "website": "https://www.kanal23.com/",
+      "logoUrl": "https://i.imgur.com/3br8RCq.png",
+      "sources": [
+        {
+          "url": "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-3",
+      "number": 47,
+      "title": "Kanal 3",
+      "group": "Yerel",
+      "website": "https://www.kanal3.com.tr/",
+      "logoUrl": "https://i.imgur.com/eXErSv0.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kocaeli-tv",
+      "number": 48,
+      "title": "Kocaeli TV",
+      "group": "Yerel",
+      "website": "https://www.kocaelitv.com.tr/",
+      "logoUrl": "https://i.imgur.com/LeTP4zq.png",
+      "sources": [
+        {
+          "url": "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "number1-damar",
+      "number": 49,
+      "title": "Number1 Damar",
+      "group": "Müzik",
+      "website": "https://www.numberone.com.tr/",
+      "logoUrl": "https://i.imgur.com/rYtbAGZ.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
         }
       ]
     }
