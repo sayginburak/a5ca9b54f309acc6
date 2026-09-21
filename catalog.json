@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 24,
-  "updatedAt": "2026-09-21T12:54:53Z",
+  "revision": 25,
+  "updatedAt": "2026-09-21T12:56:32Z",
   "series": [
     {
       "id": "behzat",
@@ -2565,34 +2565,30 @@
       ],
       "language": "auto",
       "kind": "series"
+    },
+    {
+      "id": "kultfilmler-propaganda-izle",
+      "title": "Propaganda",
+      "subtitle": "1948'de geçen hikaye, Türkiye'de Hükümet tarafından dikilmiş dikenli tellerle ikiye bölünmüş küçük bir köyde geçiyor. Köy doktoru ve ailesi uyandığında sınırın yanlış tarafında olduklarını fark ediyorlar şimdi belirsiz bir ülkede olduklarını gördüklerinde durum gerçeküstü bir boyut kazanacaktır. Kül",
+      "provider": "kultfilmler",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://kultfilmler.net/wp-content/uploads/2022/05/propaganda-1999-afis.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Propaganda",
+          "source": "https://kultfilmler.net/propaganda-izle/",
+          "durationMs": 0,
+          "id": "kultfilmler-propaganda-izle:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
-    {
-      "id": "kultfilmler",
-      "label": "Kült Filmler",
-      "family": "wordpress-embed",
-      "engine": "iframe",
-      "baseUrl": "https://kultfilmler.net/",
-      "hosts": [
-        "kultfilmler.net",
-        "www.kultfilmler.net"
-      ],
-      "embedHosts": [
-        "ok.ru",
-        "videoseyred.in"
-      ],
-      "kinds": [
-        "movie"
-      ],
-      "search": {
-        "path": "/",
-        "queryParam": "s"
-      },
-      "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
-      "enabled": true,
-      "experimental": false
-    },
     {
       "id": "filmizlehell",
       "label": "FilmizleHell",
@@ -2772,6 +2768,31 @@
         "queryParam": "q"
       },
       "contentPathPattern": "/(?:diziler/[a-z0-9]+(?:-[a-z0-9]+)*|bolumler/[a-z0-9]+(?:-[a-z0-9]+)*|[a-z0-9]+(?:-[a-z0-9]+)*/[0-9]+-sezon-[0-9]+-bolum)\\.html",
+      "enabled": true,
+      "experimental": false
+    },
+    {
+      "id": "kultfilmler",
+      "label": "Kült Filmler",
+      "family": "wordpress-embed",
+      "engine": "iframe",
+      "baseUrl": "https://kultfilmler.net/",
+      "hosts": [
+        "kultfilmler.net",
+        "www.kultfilmler.net"
+      ],
+      "embedHosts": [
+        "ok.ru",
+        "videoseyred.in"
+      ],
+      "kinds": [
+        "movie"
+      ],
+      "search": {
+        "path": "/",
+        "queryParam": "s"
+      },
+      "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": false
     }
