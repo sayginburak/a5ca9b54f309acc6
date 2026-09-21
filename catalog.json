@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 20,
-  "updatedAt": "2026-09-21T12:28:40Z",
+  "revision": 21,
+  "updatedAt": "2026-09-21T12:35:52Z",
   "series": [
     {
       "id": "behzat",
@@ -1865,35 +1865,30 @@
       ],
       "language": "auto",
       "kind": "movie"
+    },
+    {
+      "id": "hdfilmcehennemi-land-baba-3-1990-izle",
+      "title": "Baba 3",
+      "subtitle": "Francis Ford Coppola’nın kült serisinin kapanış filmi Baba III, Michael Corleone’nin içsel hesaplaşmalarını ve ailesiyle olan bağlarını derinlemesine ele alıyor. Yaşlılık ve pişmanlık arasında sıkışan Michael, genç Vincent’ı kendi yerine hazırlarken, karanlık geçmişin izleri bir kez daha ortaya çıka",
+      "provider": "hdfilmcehennemi-land",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.hdfilmcehennemi.land/wp-content/uploads/2023/11/baba-3-1990-izle.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Baba 3",
+          "source": "https://www.hdfilmcehennemi.land/film/baba-3-1990-izle/",
+          "durationMs": 0,
+          "id": "hdfilmcehennemi-land-baba-3-1990-izle:s1:e1"
+        }
+      ],
+      "language": "dub",
+      "kind": "movie"
     }
   ],
   "providers": [
-    {
-      "id": "hdfilmcehennemi-land",
-      "label": "HDFilmCehennemi (.land)",
-      "family": "setfilm",
-      "engine": "setplay",
-      "baseUrl": "https://www.hdfilmcehennemi.land/",
-      "hosts": [
-        "www.hdfilmcehennemi.land",
-        "hdfilmcehennemi.land"
-      ],
-      "embedHosts": [
-        "setplay.shop",
-        "fastplay.mom"
-      ],
-      "kinds": [
-        "movie",
-        "series"
-      ],
-      "search": {
-        "path": "/",
-        "queryParam": "s"
-      },
-      "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
-      "enabled": true,
-      "experimental": true
-    },
     {
       "id": "kultfilmler",
       "label": "Kült Filmler",
@@ -2017,6 +2012,32 @@
       "contentPathPattern": "/(?:[a-z0-9]+(?:-[a-z0-9]+)*|dizi/[a-z0-9]+(?:-[a-z0-9]+)*(?:/sezon-[0-9]+/bolum-[a-z0-9]+(?:-[a-z0-9]+)*)?)/?",
       "enabled": true,
       "experimental": false
+    },
+    {
+      "id": "hdfilmcehennemi-land",
+      "label": "HDFilmCehennemi (.land)",
+      "family": "setfilm",
+      "engine": "setplay",
+      "baseUrl": "https://www.hdfilmcehennemi.land/",
+      "hosts": [
+        "www.hdfilmcehennemi.land",
+        "hdfilmcehennemi.land"
+      ],
+      "embedHosts": [
+        "setplay.shop",
+        "fastplay.mom"
+      ],
+      "kinds": [
+        "movie",
+        "series"
+      ],
+      "search": {
+        "path": "/",
+        "queryParam": "s"
+      },
+      "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "enabled": true,
+      "experimental": true
     }
   ]
 }
