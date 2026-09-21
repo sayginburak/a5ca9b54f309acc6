@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 22,
-  "updatedAt": "2026-09-21T12:49:32Z",
+  "revision": 23,
+  "updatedAt": "2026-09-21T12:52:31Z",
   "series": [
     {
       "id": "behzat",
@@ -1907,6 +1907,27 @@
       ],
       "language": "auto",
       "kind": "movie"
+    },
+    {
+      "id": "hdfilmcehennemi-land-neredesin-firuze",
+      "title": "Neredesin Firuze",
+      "subtitle": "Unkapanı’nın yükseliş ve çöküş dönemine tanıklık eden “Neredesin Firuze”, müzik dünyasında bir yıldız yaratma hayaliyle yola çıkan ancak beklenmedik olaylarla karşılaşan iki yapımcının eğlenceli ve hüzünlü hikâyesini anlatıyor. Borç batağındaki Hayri ve Osman, Ferhat isimli genç bir şarkıcıyla tüm k",
+      "provider": "hdfilmcehennemi-land",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.hdfilmcehennemi.land/wp-content/uploads/2025/02/neredesin-firuze-2004-izle.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Neredesin Firuze",
+          "source": "https://www.hdfilmcehennemi.land/film/neredesin-firuze/",
+          "durationMs": 0,
+          "id": "hdfilmcehennemi-land-neredesin-firuze:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
@@ -2035,32 +2056,6 @@
       "experimental": false
     },
     {
-      "id": "hdfilmcehennemi-land",
-      "label": "HDFilmCehennemi (.land)",
-      "family": "setfilm",
-      "engine": "setplay",
-      "baseUrl": "https://www.hdfilmcehennemi.land/",
-      "hosts": [
-        "www.hdfilmcehennemi.land",
-        "hdfilmcehennemi.land"
-      ],
-      "embedHosts": [
-        "setplay.shop",
-        "fastplay.mom"
-      ],
-      "kinds": [
-        "movie",
-        "series"
-      ],
-      "search": {
-        "path": "/",
-        "queryParam": "s"
-      },
-      "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
-      "enabled": true,
-      "experimental": true
-    },
-    {
       "id": "nadirfilm",
       "label": "NadirFilm",
       "family": "wordpress-embed",
@@ -2084,6 +2079,32 @@
         "queryParam": "film_search"
       },
       "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "enabled": true,
+      "experimental": true
+    },
+    {
+      "id": "hdfilmcehennemi-land",
+      "label": "HDFilmCehennemi (.land)",
+      "family": "setfilm",
+      "engine": "setplay",
+      "baseUrl": "https://www.hdfilmcehennemi.land/",
+      "hosts": [
+        "www.hdfilmcehennemi.land",
+        "hdfilmcehennemi.land"
+      ],
+      "embedHosts": [
+        "setplay.shop",
+        "fastplay.mom"
+      ],
+      "kinds": [
+        "movie",
+        "series"
+      ],
+      "search": {
+        "path": "/",
+        "queryParam": "s"
+      },
+      "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": true
     }
