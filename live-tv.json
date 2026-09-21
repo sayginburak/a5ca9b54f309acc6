@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "updatedAt": "2026-09-20T21:14:01Z",
+  "revision": 5,
+  "updatedAt": "2026-09-21T20:15:00Z",
   "channels": [
     {
       "id": "trt-1",
@@ -47,6 +47,7 @@
     },
     {
       "id": "now",
+      "number": 4,
       "title": "NOW",
       "group": "Eğlence",
       "website": "https://www.nowtv.com.tr/",
@@ -55,25 +56,11 @@
         {
           "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
         }
-      ],
-      "number": 4
-    },
-    {
-      "id": "tv8",
-      "number": 5,
-      "title": "TV8",
-      "group": "Ulusal",
-      "website": "https://www.tv8.com.tr/canli-yayin",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/500px-Tv8_Yeni_Logo.png",
-      "sources": [
-        {
-          "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
-        }
       ]
     },
     {
       "id": "star-tv",
-      "number": 6,
+      "number": 5,
       "title": "Star TV",
       "group": "Ulusal",
       "website": "https://www.startv.com.tr/canli-yayin",
@@ -84,6 +71,19 @@
         },
         {
           "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5"
+        }
+      ]
+    },
+    {
+      "id": "tv8",
+      "number": 6,
+      "title": "TV8",
+      "group": "Ulusal",
+      "website": "https://www.tv8.com.tr/canli-yayin",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/500px-Tv8_Yeni_Logo.png",
+      "sources": [
+        {
+          "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
         }
       ]
     },
@@ -133,8 +133,60 @@
       ]
     },
     {
-      "id": "trt-haber",
+      "id": "cnbc-e",
       "number": 10,
+      "title": "CNBC-e",
+      "group": "Haber",
+      "website": "https://www.cnbce.com/canli-yayin",
+      "logoUrl": "https://s.cnbce.com/dist/images/logo-nav.png",
+      "sources": [
+        {
+          "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-spor",
+      "number": 11,
+      "title": "TRT Spor",
+      "group": "Spor",
+      "website": "https://www.trtspor.com.tr/",
+      "logoUrl": "https://i.imgur.com/6tv0zxh.png",
+      "sources": [
+        {
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "a-spor",
+      "number": 12,
+      "title": "A Spor",
+      "group": "Spor",
+      "website": "https://www.aspor.com.tr/",
+      "logoUrl": "https://i.imgur.com/ZhkZzLf.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-spor-yildiz",
+      "number": 13,
+      "title": "TRT Spor Yıldız",
+      "group": "Spor",
+      "website": "https://www.trtspor.com.tr/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/500px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+      "sources": [
+        {
+          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
+        }
+      ]
+    },
+    {
+      "id": "trt-haber",
+      "number": 14,
       "title": "TRT Haber",
       "group": "Haber",
       "website": "https://www.trthaber.com/canli-yayin-izle.html",
@@ -147,7 +199,7 @@
     },
     {
       "id": "ntv",
-      "number": 11,
+      "number": 15,
       "title": "NTV",
       "group": "Haber",
       "website": "https://www.ntv.com.tr/canli-yayin/ntv",
@@ -163,7 +215,7 @@
     },
     {
       "id": "haberturk",
-      "number": 12,
+      "number": 16,
       "title": "Habertürk",
       "group": "Haber",
       "website": "https://www.haberturk.com/canliyayin",
@@ -179,7 +231,7 @@
     },
     {
       "id": "a-haber",
-      "number": 13,
+      "number": 17,
       "title": "A Haber",
       "group": "Haber",
       "website": "https://www.ahaber.com.tr/",
@@ -192,7 +244,7 @@
     },
     {
       "id": "halk-tv",
-      "number": 14,
+      "number": 18,
       "title": "Halk TV",
       "group": "Haber",
       "website": "https://halktv.com.tr/canli-yayin",
@@ -208,7 +260,7 @@
     },
     {
       "id": "haber-global",
-      "number": 15,
+      "number": 19,
       "title": "Haber Global",
       "group": "Haber",
       "website": "https://haberglobal.com.tr/",
@@ -221,6 +273,7 @@
     },
     {
       "id": "tgrt-haber",
+      "number": 20,
       "title": "TGRT Haber",
       "group": "Haber",
       "website": "https://www.tgrthaber.com.tr/",
@@ -229,264 +282,11 @@
         {
           "url": "https://canli.tgrthaber.com/tgrt.m3u8"
         }
-      ],
-      "number": 16
-    },
-    {
-      "id": "tv-24",
-      "number": 17,
-      "title": "24 TV",
-      "group": "Haber",
-      "website": "https://www.yirmidort.tv/",
-      "logoUrl": "https://i.imgur.com/8FO41es.png",
-      "sources": [
-        {
-          "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
-        },
-        {
-          "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8"
-        }
       ]
-    },
-    {
-      "id": "tvnet",
-      "number": 18,
-      "title": "TVNET",
-      "group": "Haber",
-      "website": "https://www.tvnet.com.tr/canli-yayin",
-      "logoUrl": "https://i.imgur.com/mQo8yWQ.png",
-      "sources": [
-        {
-          "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "flash-haber-tv",
-      "title": "Flash Haber TV",
-      "group": "Haber",
-      "website": "https://flashhabertv.com/canli-yayin.html",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/flash-haber-tv.png",
-      "sources": [
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8"
-        }
-      ],
-      "number": 19
-    },
-    {
-      "id": "benguturk-tv",
-      "title": "Bengütürk TV",
-      "group": "Yerel",
-      "website": "https://www.benguturk.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/benguturk-tv.png",
-      "sources": [
-        {
-          "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
-        }
-      ],
-      "number": 20
-    },
-    {
-      "id": "turkhaber-tv",
-      "title": "TürkHaber TV",
-      "group": "Haber",
-      "website": "https://www.turkhabertv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/turkhaber-tv.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 21
-    },
-    {
-      "id": "ilke-tv",
-      "title": "İlke TV",
-      "group": "Yerel",
-      "website": "https://www.ilketv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ilke-tv.png",
-      "sources": [
-        {
-          "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8"
-        }
-      ],
-      "number": 22
-    },
-    {
-      "id": "cnbc-e",
-      "number": 23,
-      "title": "CNBC-e",
-      "group": "Haber",
-      "website": "https://www.cnbce.com/canli-yayin",
-      "logoUrl": "https://s.cnbce.com/dist/images/logo-nav.png",
-      "sources": [
-        {
-          "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "bloomberg-ht",
-      "number": 24,
-      "title": "Bloomberg HT",
-      "group": "Haber",
-      "website": "https://www.bloomberght.com/",
-      "logoUrl": "https://i.imgur.com/bmkXfIE.png",
-      "sources": [
-        {
-          "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
-        },
-        {
-          "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ekoturk",
-      "title": "Ekotürk",
-      "group": "Haber",
-      "website": "https://www.ekoturk.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ekoturk.png",
-      "sources": [
-        {
-          "url": "https://cdn.ekoturk.net/hls/master.m3u8"
-        }
-      ],
-      "number": 25
-    },
-    {
-      "id": "finans-turk-tv",
-      "title": "Finans Türk TV",
-      "group": "Haber",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/finans-turk-tv.png",
-      "sources": [
-        {
-          "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
-        }
-      ],
-      "number": 26
-    },
-    {
-      "id": "dha",
-      "title": "DHA",
-      "group": "Haber",
-      "website": "https://www.dha.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/dha.png",
-      "sources": [
-        {
-          "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
-        }
-      ],
-      "number": 27
-    },
-    {
-      "id": "tbmm-tv",
-      "title": "TBMM TV",
-      "group": "Haber",
-      "website": "https://www.tbmm.gov.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tbmm-tv.png",
-      "sources": [
-        {
-          "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
-        }
-      ],
-      "number": 28
-    },
-    {
-      "id": "trt-spor",
-      "number": 29,
-      "title": "TRT Spor",
-      "group": "Spor",
-      "website": "https://www.trtspor.com.tr/",
-      "logoUrl": "https://i.imgur.com/6tv0zxh.png",
-      "sources": [
-        {
-          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "trt-spor-yildiz",
-      "number": 30,
-      "title": "TRT Spor Yıldız",
-      "group": "Spor",
-      "website": "https://www.trtspor.com.tr/",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/500px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
-      "sources": [
-        {
-          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
-        }
-      ]
-    },
-    {
-      "id": "a-spor",
-      "number": 31,
-      "title": "A Spor",
-      "group": "Spor",
-      "website": "https://www.aspor.com.tr/",
-      "logoUrl": "https://i.imgur.com/ZhkZzLf.png",
-      "sources": [
-        {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ht-spor",
-      "number": 32,
-      "title": "HT Spor",
-      "group": "Spor",
-      "website": "https://www.htspor.com/",
-      "logoUrl": "https://www.htspor.com/images/manifest/social-share-logo.png",
-      "sources": [
-        {
-          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
-        }
-      ]
-    },
-    {
-      "id": "fb-tv",
-      "title": "FB TV",
-      "group": "Spor",
-      "website": "https://www.fenerbahce.org/fbtv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/fb-tv.png",
-      "sources": [
-        {
-          "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
-        }
-      ],
-      "number": 33
-    },
-    {
-      "id": "tjk-tv",
-      "title": "TJK TV",
-      "group": "Spor",
-      "website": "https://www.tjk.org/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tjk-tv.png",
-      "sources": [
-        {
-          "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
-        }
-      ],
-      "number": 34
-    },
-    {
-      "id": "tjk-tv-2",
-      "title": "TJK TV 2",
-      "group": "Spor",
-      "website": "https://www.tjk.org/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tjk-tv-2.png",
-      "sources": [
-        {
-          "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
-        }
-      ],
-      "number": 35
     },
     {
       "id": "trt-cocuk",
-      "number": 36,
+      "number": 21,
       "title": "TRT Çocuk",
       "group": "Çocuk",
       "website": "https://www.trtcocuk.net.tr/",
@@ -498,97 +298,8 @@
       ]
     },
     {
-      "id": "minika-go",
-      "number": 37,
-      "title": "minika GO",
-      "group": "Çocuk",
-      "website": "https://www.minika.com.tr/",
-      "logoUrl": "https://i.imgur.com/qIoipDq.png",
-      "sources": [
-        {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "minika-cocuk",
-      "number": 38,
-      "title": "minika ÇOCUK",
-      "group": "Çocuk",
-      "website": "https://www.minika.com.tr/",
-      "logoUrl": "https://i.imgur.com/VCywMTv.png",
-      "sources": [
-        {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "disney-jr",
-      "title": "Disney Jr.",
-      "group": "Çocuk",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/disney-jr.png",
-      "sources": [
-        {
-          "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8"
-        }
-      ],
-      "number": 39
-    },
-    {
-      "id": "babytv",
-      "title": "BabyTV",
-      "group": "Çocuk",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/babytv.png",
-      "sources": [
-        {
-          "url": "https://saran-live.ercdn.net/babytv/index.m3u8"
-        }
-      ],
-      "number": 40
-    },
-    {
-      "id": "trt-diyanet-cocuk",
-      "number": 41,
-      "title": "TRT Diyanet Çocuk",
-      "group": "Çocuk",
-      "website": "https://www.trtdiyanetcocuk.com.tr/",
-      "logoUrl": "https://i.imgur.com/8PmXz9t.png",
-      "sources": [
-        {
-          "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "trt-genc",
-      "number": 42,
-      "title": "TRT Genç",
-      "group": "Kültür ve Belgesel",
-      "website": "https://www.trtgenc.com.tr/",
-      "logoUrl": "https://i.imgur.com/fCHQYWS.png",
-      "sources": [
-        {
-          "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "trt-eba",
-      "number": 43,
-      "title": "TRT EBA",
-      "group": "Eğitim",
-      "website": "https://www.eba.gov.tr/",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/250px-TRT_EBA_TV_logo.svg.png",
-      "sources": [
-        {
-          "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-        }
-      ]
-    },
-    {
       "id": "trt-belgesel",
-      "number": 44,
+      "number": 22,
       "title": "TRT Belgesel",
       "group": "Kültür ve Belgesel",
       "website": "https://www.trtbelgesel.com.tr/",
@@ -601,7 +312,7 @@
     },
     {
       "id": "trt-2",
-      "number": 45,
+      "number": 23,
       "title": "TRT 2",
       "group": "Kültür ve Belgesel",
       "website": "https://www.trt2.com.tr/",
@@ -613,47 +324,8 @@
       ]
     },
     {
-      "id": "tv-4",
-      "number": 46,
-      "title": "TV4",
-      "group": "Ulusal",
-      "website": "https://www.tv4.com.tr/",
-      "logoUrl": "https://i.imgur.com/UpsQsbd.png",
-      "sources": [
-        {
-          "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "gzt",
-      "number": 47,
-      "title": "GZT",
-      "group": "Kültür ve Belgesel",
-      "website": "https://www.gzt.com/",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/500px-GZT_logo.svg.png",
-      "sources": [
-        {
-          "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "ciftci-tv",
-      "number": 48,
-      "title": "Çiftçi TV",
-      "group": "Kültür ve Belgesel",
-      "website": "https://www.ciftcitv.com/",
-      "logoUrl": "https://i.imgur.com/CLzP4vL.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "id": "trt-muzik",
-      "number": 49,
+      "number": 24,
       "title": "TRT Müzik",
       "group": "Müzik",
       "website": "https://www.trtmuzik.net.tr/",
@@ -668,8 +340,74 @@
       ]
     },
     {
+      "id": "bloomberg-ht",
+      "number": 25,
+      "title": "Bloomberg HT",
+      "group": "Haber",
+      "website": "https://www.bloomberght.com/",
+      "logoUrl": "https://i.imgur.com/bmkXfIE.png",
+      "sources": [
+        {
+          "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+        },
+        {
+          "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "minika-go",
+      "number": 26,
+      "title": "minika GO",
+      "group": "Çocuk",
+      "website": "https://www.minika.com.tr/",
+      "logoUrl": "https://i.imgur.com/qIoipDq.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "minika-cocuk",
+      "number": 27,
+      "title": "minika ÇOCUK",
+      "group": "Çocuk",
+      "website": "https://www.minika.com.tr/",
+      "logoUrl": "https://i.imgur.com/VCywMTv.png",
+      "sources": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "disney-jr",
+      "number": 28,
+      "title": "Disney Jr.",
+      "group": "Çocuk",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/disney-jr.png",
+      "sources": [
+        {
+          "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "babytv",
+      "number": 29,
+      "title": "BabyTV",
+      "group": "Çocuk",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/babytv.png",
+      "sources": [
+        {
+          "url": "https://saran-live.ercdn.net/babytv/index.m3u8"
+        }
+      ]
+    },
+    {
       "id": "kral-pop",
-      "number": 50,
+      "number": 30,
       "title": "Kral Pop TV",
       "group": "Müzik",
       "website": "https://www.kralmuzik.com.tr/tv/kral-pop-tv",
@@ -681,21 +419,8 @@
       ]
     },
     {
-      "id": "dream-turk",
-      "number": 51,
-      "title": "Dream Türk",
-      "group": "Müzik",
-      "website": "https://www.dreamturk.com.tr/canli-yayin",
-      "logoUrl": "https://i.imgur.com/vJ8VaZi.png",
-      "sources": [
-        {
-          "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
-        }
-      ]
-    },
-    {
       "id": "power-turk",
-      "number": 52,
+      "number": 31,
       "title": "PowerTürk TV",
       "group": "Müzik",
       "website": "https://www.powerapp.com.tr/tvs/power-tvs",
@@ -713,47 +438,21 @@
       ]
     },
     {
-      "id": "power-turk-taptaze",
-      "number": 53,
-      "title": "PowerTürk Taptaze",
+      "id": "dream-turk",
+      "number": 32,
+      "title": "Dream Türk",
       "group": "Müzik",
-      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
-      "logoUrl": "https://i.imgur.com/a5nW3HU.png",
+      "website": "https://www.dreamturk.com.tr/canli-yayin",
+      "logoUrl": "https://i.imgur.com/vJ8VaZi.png",
       "sources": [
         {
-          "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "power-turk-akustik",
-      "number": 54,
-      "title": "PowerTürk Akustik",
-      "group": "Müzik",
-      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
-      "logoUrl": "https://i.imgur.com/driabBO.png",
-      "sources": [
-        {
-          "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "power-turk-slow",
-      "number": 55,
-      "title": "PowerTürk Slow",
-      "group": "Müzik",
-      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
-      "logoUrl": "https://i.imgur.com/tQSoQXW.png",
-      "sources": [
-        {
-          "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+          "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8"
         }
       ]
     },
     {
       "id": "power-tv",
-      "number": 56,
+      "number": 33,
       "title": "Power TV",
       "group": "Müzik",
       "website": "https://www.powerapp.com.tr/tvs/power-tvs",
@@ -771,86 +470,128 @@
       ]
     },
     {
-      "id": "power-dance",
-      "title": "Power Dance",
-      "group": "Müzik",
-      "website": "https://www.powerapp.com.tr/radios/powerdance/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/power-dance.png",
+      "id": "ht-spor",
+      "number": 34,
+      "title": "HT Spor",
+      "group": "Spor",
+      "website": "https://www.htspor.com/",
+      "logoUrl": "https://www.htspor.com/images/manifest/social-share-logo.png",
       "sources": [
         {
-          "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
-        }
-      ],
-      "number": 57
-    },
-    {
-      "id": "power-love",
-      "title": "Power Love",
-      "group": "Müzik",
-      "website": "https://www.powerapp.com.tr/radios/powerlove/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/power-love.png",
-      "sources": [
-        {
-          "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
-        }
-      ],
-      "number": 58
-    },
-    {
-      "id": "number1-dance",
-      "title": "Number1 Dance",
-      "group": "Müzik",
-      "website": "https://www.numberone.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/number1-dance.png",
-      "sources": [
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
-        }
-      ],
-      "number": 59
-    },
-    {
-      "id": "number1-damar",
-      "number": 60,
-      "title": "Number1 Damar",
-      "group": "Müzik",
-      "website": "https://www.numberone.com.tr/",
-      "logoUrl": "https://i.imgur.com/rYtbAGZ.png",
-      "sources": [
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
         }
       ]
     },
     {
-      "id": "m-turk-tv",
-      "title": "M Türk TV",
-      "group": "Yerel",
-      "website": "https://www.mturktv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/m-turk-tv.png",
+      "id": "tv-24",
+      "number": 35,
+      "title": "24 TV",
+      "group": "Haber",
+      "website": "https://www.yirmidort.tv/",
+      "logoUrl": "https://i.imgur.com/8FO41es.png",
       "sources": [
         {
-          "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+          "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+        },
+        {
+          "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8"
         }
-      ],
-      "number": 61
+      ]
     },
     {
-      "id": "finest-tv",
-      "title": "Finest TV",
-      "group": "Müzik",
-      "website": "https://www.finest.tv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/finest-tv.png",
+      "id": "tvnet",
+      "number": 36,
+      "title": "TVNET",
+      "group": "Haber",
+      "website": "https://www.tvnet.com.tr/canli-yayin",
+      "logoUrl": "https://i.imgur.com/mQo8yWQ.png",
       "sources": [
         {
-          "url": "https://media.finest.tv/hls/live.m3u8"
+          "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
         }
-      ],
-      "number": 62
+      ]
+    },
+    {
+      "id": "tv-4",
+      "number": 37,
+      "title": "TV4",
+      "group": "Ulusal",
+      "website": "https://www.tv4.com.tr/",
+      "logoUrl": "https://i.imgur.com/UpsQsbd.png",
+      "sources": [
+        {
+          "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-genc",
+      "number": 38,
+      "title": "TRT Genç",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.trtgenc.com.tr/",
+      "logoUrl": "https://i.imgur.com/fCHQYWS.png",
+      "sources": [
+        {
+          "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "fb-tv",
+      "number": 39,
+      "title": "FB TV",
+      "group": "Spor",
+      "website": "https://www.fenerbahce.org/fbtv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/fb-tv.png",
+      "sources": [
+        {
+          "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ekoturk",
+      "number": 40,
+      "title": "Ekotürk",
+      "group": "Haber",
+      "website": "https://www.ekoturk.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ekoturk.png",
+      "sources": [
+        {
+          "url": "https://cdn.ekoturk.net/hls/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "flash-haber-tv",
+      "number": 41,
+      "title": "Flash Haber TV",
+      "group": "Haber",
+      "website": "https://flashhabertv.com/canli-yayin.html",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/flash-haber-tv.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "benguturk-tv",
+      "number": 42,
+      "title": "Bengütürk TV",
+      "group": "Yerel",
+      "website": "https://www.benguturk.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/benguturk-tv.png",
+      "sources": [
+        {
+          "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+        }
+      ]
     },
     {
       "id": "trt-turk",
-      "number": 63,
+      "number": 43,
       "title": "TRT Türk",
       "group": "Ulusal",
       "website": "https://www.trtturk.com.tr/",
@@ -863,7 +604,7 @@
     },
     {
       "id": "trt-avaz",
-      "number": 64,
+      "number": 44,
       "title": "TRT Avaz",
       "group": "Ulusal",
       "website": "https://www.trtavaz.com.tr/",
@@ -875,8 +616,98 @@
       ]
     },
     {
+      "id": "diyanet-tv",
+      "number": 45,
+      "title": "Diyanet TV",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.diyanet.tv/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/500px-Diyanet_TV_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "semerkand-tv",
+      "number": 46,
+      "title": "Semerkand TV",
+      "group": "İnanç",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/semerkand-tv.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "vav-tv",
+      "number": 47,
+      "title": "Vav TV",
+      "group": "İnanç",
+      "website": "https://www.vavtv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/vav-tv.png",
+      "sources": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-diyanet-cocuk",
+      "number": 48,
+      "title": "TRT Diyanet Çocuk",
+      "group": "Çocuk",
+      "website": "https://www.trtdiyanetcocuk.com.tr/",
+      "logoUrl": "https://i.imgur.com/8PmXz9t.png",
+      "sources": [
+        {
+          "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "trt-eba",
+      "number": 49,
+      "title": "TRT EBA",
+      "group": "Eğitim",
+      "website": "https://www.eba.gov.tr/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/250px-TRT_EBA_TV_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tjk-tv",
+      "number": 50,
+      "title": "TJK TV",
+      "group": "Spor",
+      "website": "https://www.tjk.org/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tjk-tv.png",
+      "sources": [
+        {
+          "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tjk-tv-2",
+      "number": 51,
+      "title": "TJK TV 2",
+      "group": "Spor",
+      "website": "https://www.tjk.org/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tjk-tv-2.png",
+      "sources": [
+        {
+          "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
+        }
+      ]
+    },
+    {
       "id": "euro-d",
-      "number": 65,
+      "number": 52,
       "title": "Euro D",
       "group": "Ulusal",
       "website": "https://www.eurod.com.tr/",
@@ -889,6 +720,7 @@
     },
     {
       "id": "kanal-7-avrupa",
+      "number": 53,
       "title": "Kanal 7 Avrupa",
       "group": "Ulusal",
       "website": "https://www.kanal7avrupa.com/",
@@ -897,11 +729,37 @@
         {
           "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
         }
-      ],
-      "number": 66
+      ]
+    },
+    {
+      "id": "gzt",
+      "number": 54,
+      "title": "GZT",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.gzt.com/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/500px-GZT_logo.svg.png",
+      "sources": [
+        {
+          "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ciftci-tv",
+      "number": 55,
+      "title": "Çiftçi TV",
+      "group": "Kültür ve Belgesel",
+      "website": "https://www.ciftcitv.com/",
+      "logoUrl": "https://i.imgur.com/CLzP4vL.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "meltem-tv",
+      "number": 56,
       "title": "Meltem TV",
       "group": "Yerel",
       "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/meltem-tv.png",
@@ -909,11 +767,11 @@
         {
           "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
         }
-      ],
-      "number": 67
+      ]
     },
     {
       "id": "tivi-6",
+      "number": 57,
       "title": "Tivi 6",
       "group": "Yerel",
       "website": "https://tivi6.com.tr/",
@@ -922,136 +780,192 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
         }
-      ],
-      "number": 68
+      ]
     },
     {
-      "id": "tempo-tv",
-      "title": "Tempo TV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tempo-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
-        }
-      ],
-      "number": 69
-    },
-    {
-      "id": "life-tv",
-      "title": "Life TV",
+      "id": "tbmm-tv",
+      "number": 58,
+      "title": "TBMM TV",
       "group": "Haber",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/life-tv.png",
+      "website": "https://www.tbmm.gov.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tbmm-tv.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
-        }
-      ],
-      "number": 70
-    },
-    {
-      "id": "mc-tv",
-      "title": "MC TV",
-      "group": "Eğlence",
-      "website": "https://mceu.tv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/mc-tv.png",
-      "sources": [
-        {
-          "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
-        }
-      ],
-      "number": 71
-    },
-    {
-      "id": "fortuna-tv",
-      "title": "Fortuna TV",
-      "group": "Yaşam",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/fortuna-tv.png",
-      "sources": [
-        {
-          "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 72
-    },
-    {
-      "id": "yol-tv",
-      "title": "YOL TV",
-      "group": "Uluslararası",
-      "website": "https://www.yoltv.eu/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/yol-tv.png",
-      "sources": [
-        {
-          "url": "https://live.yoltv.com/hls/stream.m3u8"
-        }
-      ],
-      "number": 73
-    },
-    {
-      "id": "sercem-tv",
-      "title": "Serçem TV",
-      "group": "İnanç",
-      "website": "https://sercemtv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/sercem-tv.png",
-      "sources": [
-        {
-          "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
-        }
-      ],
-      "number": 74
-    },
-    {
-      "id": "luys-tv",
-      "title": "Luys TV",
-      "group": "Kültür ve Belgesel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/luys-tv.png",
-      "sources": [
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8"
-        }
-      ],
-      "number": 75
-    },
-    {
-      "id": "diyanet-tv",
-      "number": 76,
-      "title": "Diyanet TV",
-      "group": "Kültür ve Belgesel",
-      "website": "https://www.diyanet.tv/",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/500px-Diyanet_TV_logo.svg.png",
-      "sources": [
-        {
-          "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+          "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
         }
       ]
     },
     {
-      "id": "vav-tv",
-      "title": "Vav TV",
-      "group": "İnanç",
-      "website": "https://www.vavtv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/vav-tv.png",
+      "id": "dha",
+      "number": 59,
+      "title": "DHA",
+      "group": "Haber",
+      "website": "https://www.dha.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/dha.png",
       "sources": [
         {
-          "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
+          "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
         }
-      ],
-      "number": 77
+      ]
     },
     {
-      "id": "semerkand-tv",
-      "title": "Semerkand TV",
-      "group": "İnanç",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/semerkand-tv.png",
+      "id": "turkhaber-tv",
+      "number": 60,
+      "title": "TürkHaber TV",
+      "group": "Haber",
+      "website": "https://www.turkhabertv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/turkhaber-tv.png",
       "sources": [
         {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
+          "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
         }
-      ],
-      "number": 78
+      ]
+    },
+    {
+      "id": "ilke-tv",
+      "number": 61,
+      "title": "İlke TV",
+      "group": "Yerel",
+      "website": "https://www.ilketv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ilke-tv.png",
+      "sources": [
+        {
+          "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "finans-turk-tv",
+      "number": 62,
+      "title": "Finans Türk TV",
+      "group": "Haber",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/finans-turk-tv.png",
+      "sources": [
+        {
+          "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-akustik",
+      "number": 63,
+      "title": "PowerTürk Akustik",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/driabBO.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-slow",
+      "number": 64,
+      "title": "PowerTürk Slow",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/tQSoQXW.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-turk-taptaze",
+      "number": 65,
+      "title": "PowerTürk Taptaze",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/tvs/power-tvs",
+      "logoUrl": "https://i.imgur.com/a5nW3HU.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-love",
+      "number": 66,
+      "title": "Power Love",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/radios/powerlove/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/power-love.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "power-dance",
+      "number": 67,
+      "title": "Power Dance",
+      "group": "Müzik",
+      "website": "https://www.powerapp.com.tr/radios/powerdance/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/power-dance.png",
+      "sources": [
+        {
+          "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "number1-dance",
+      "number": 68,
+      "title": "Number1 Dance",
+      "group": "Müzik",
+      "website": "https://www.numberone.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/number1-dance.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "number1-damar",
+      "number": 69,
+      "title": "Number1 Damar",
+      "group": "Müzik",
+      "website": "https://www.numberone.com.tr/",
+      "logoUrl": "https://i.imgur.com/rYtbAGZ.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "m-turk-tv",
+      "number": 70,
+      "title": "M Türk TV",
+      "group": "Yerel",
+      "website": "https://www.mturktv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/m-turk-tv.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "finest-tv",
+      "number": 71,
+      "title": "Finest TV",
+      "group": "Müzik",
+      "website": "https://www.finest.tv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/finest-tv.png",
+      "sources": [
+        {
+          "url": "https://media.finest.tv/hls/live.m3u8"
+        }
+      ]
     },
     {
       "id": "lalegul-tv",
+      "number": 72,
       "title": "Lâlegül TV",
       "group": "İnanç",
       "website": "https://lalegultv.com.tr/",
@@ -1060,11 +974,11 @@
         {
           "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8"
         }
-      ],
-      "number": 79
+      ]
     },
     {
       "id": "dost-tv",
+      "number": 73,
       "title": "Dost TV",
       "group": "İnanç",
       "website": "https://www.dosttv.com/",
@@ -1073,23 +987,48 @@
         {
           "url": "https://dost.stream.emsal.im/tv/live.m3u8"
         }
-      ],
-      "number": 80
+      ]
     },
     {
-      "id": "imam-hussein-tv-5",
-      "title": "İmam Hüseyin TV 5",
-      "group": "İnanç",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/imam-hussein-tv-5.png",
+      "id": "yol-tv",
+      "number": 74,
+      "title": "YOL TV",
+      "group": "Uluslararası",
+      "website": "https://www.yoltv.eu/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/yol-tv.png",
       "sources": [
         {
-          "url": "https://live.al-zahratv.com/live/playlist.m3u8"
+          "url": "https://live.yoltv.com/hls/stream.m3u8"
         }
-      ],
-      "number": 81
+      ]
+    },
+    {
+      "id": "tempo-tv",
+      "number": 75,
+      "title": "Tempo TV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tempo-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "luys-tv",
+      "number": 76,
+      "title": "Luys TV",
+      "group": "Kültür ve Belgesel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/luys-tv.png",
+      "sources": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "sat-7-turk",
+      "number": 77,
       "title": "SAT-7 Türk",
       "group": "İnanç",
       "website": "https://www.sat7turk.com/",
@@ -1098,11 +1037,11 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
         }
-      ],
-      "number": 82
+      ]
     },
     {
       "id": "kanal-hayat",
+      "number": 78,
       "title": "Kanal Hayat",
       "group": "Yerel",
       "website": "https://kanalhayat.com/",
@@ -1111,87 +1050,73 @@
         {
           "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
         }
-      ],
-      "number": 83
+      ]
     },
     {
-      "id": "ada-tv",
-      "title": "Ada TV",
-      "group": "Uluslararası",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ada-tv.png",
+      "id": "imam-hussein-tv-5",
+      "number": 79,
+      "title": "İmam Hüseyin TV 5",
+      "group": "İnanç",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/imam-hussein-tv-5.png",
       "sources": [
         {
-          "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8"
+          "url": "https://live.al-zahratv.com/live/playlist.m3u8"
         }
-      ],
-      "number": 84
+      ]
     },
     {
-      "id": "aksu-tv",
-      "title": "Aksu TV",
-      "group": "Yerel",
-      "website": "https://www.aksutv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/aksu-tv.png",
+      "id": "mc-tv",
+      "number": 80,
+      "title": "MC TV",
+      "group": "Eğlence",
+      "website": "https://mceu.tv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/mc-tv.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
+          "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
         }
-      ],
-      "number": 85
+      ]
     },
     {
-      "id": "alanya-posta-tv",
-      "title": "Alanya Posta TV",
-      "group": "Yerel",
-      "website": "https://www.alanyapostatv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/alanya-posta-tv.png",
+      "id": "life-tv",
+      "number": 81,
+      "title": "Life TV",
+      "group": "Haber",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/life-tv.png",
       "sources": [
         {
-          "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+          "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
         }
-      ],
-      "number": 86
+      ]
     },
     {
-      "id": "altas-tv",
-      "title": "Altaş TV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/altas-tv.png",
+      "id": "fortuna-tv",
+      "number": 82,
+      "title": "Fortuna TV",
+      "group": "Yaşam",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/fortuna-tv.png",
       "sources": [
         {
-          "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
+          "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
         }
-      ],
-      "number": 87
+      ]
     },
     {
-      "id": "anadolu-net-tv",
-      "title": "Anadolu Net TV",
-      "group": "Yerel",
-      "website": "https://www.anadolunettv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/anadolu-net-tv.png",
+      "id": "sercem-tv",
+      "number": 83,
+      "title": "Serçem TV",
+      "group": "İnanç",
+      "website": "https://sercemtv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/sercem-tv.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+          "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
         }
-      ],
-      "number": 88
-    },
-    {
-      "id": "aras-tv",
-      "title": "Aras TV",
-      "group": "Yerel",
-      "website": "https://aras.tv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/aras-tv.png",
-      "sources": [
-        {
-          "url": "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-        }
-      ],
-      "number": 89
+      ]
     },
     {
       "id": "as-tv",
+      "number": 84,
       "title": "AS TV",
       "group": "Haber",
       "website": "https://astv.com.tr/",
@@ -1200,253 +1125,11 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
         }
-      ],
-      "number": 90
-    },
-    {
-      "id": "atv-alanya",
-      "title": "ATV Alanya",
-      "group": "Yerel",
-      "website": "https://www.alanyatelevizyonu.com.tr/iletisim",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/atv-alanya.png",
-      "sources": [
-        {
-          "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
-        }
-      ],
-      "number": 91
-    },
-    {
-      "id": "bir-tv",
-      "title": "Bir TV",
-      "group": "Yerel",
-      "website": "https://birtv.tv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/bir-tv.png",
-      "sources": [
-        {
-          "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 92
-    },
-    {
-      "id": "brtv",
-      "title": "BRTV",
-      "group": "Yerel",
-      "website": "https://www.brtv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/brtv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
-        }
-      ],
-      "number": 93
-    },
-    {
-      "id": "cay-tv",
-      "title": "Çay TV",
-      "group": "Yerel",
-      "website": "https://www.caytv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/cay-tv.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 94
-    },
-    {
-      "id": "deniz-postasi-tv",
-      "title": "Deniz Postası TV",
-      "group": "Yerel",
-      "website": "https://www.denizpostasi.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/deniz-postasi-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
-        }
-      ],
-      "number": 95
-    },
-    {
-      "id": "diyar-tv",
-      "title": "Diyar TV",
-      "group": "İnanç",
-      "website": "https://www.diyartv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/diyar-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
-        }
-      ],
-      "number": 96
-    },
-    {
-      "id": "edessa-tv",
-      "title": "Edessa TV",
-      "group": "Eğlence",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/edessa-tv.png",
-      "sources": [
-        {
-          "url": "https://canli.edessatv.com/hls/stream.m3u8"
-        }
-      ],
-      "number": 97
-    },
-    {
-      "id": "ertv",
-      "title": "ERTV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ertv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
-        }
-      ],
-      "number": 98
-    },
-    {
-      "id": "erzurum-web-tv",
-      "title": "Erzurum Web TV",
-      "group": "Yerel",
-      "website": "https://erzurumwebtv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/erzurum-web-tv.png",
-      "sources": [
-        {
-          "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
-        }
-      ],
-      "number": 99
-    },
-    {
-      "id": "es-tv",
-      "title": "ES TV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/es-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
-        }
-      ],
-      "number": 100
-    },
-    {
-      "id": "etv-kayseri",
-      "title": "ETV Kayseri",
-      "group": "Yerel",
-      "website": "https://www.etvkayseri.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/etv-kayseri.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
-        }
-      ],
-      "number": 101
-    },
-    {
-      "id": "etv-manisa",
-      "title": "ETV Manisa",
-      "group": "Yerel",
-      "website": "https://www.etvmanisa.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/etv-manisa.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 102
-    },
-    {
-      "id": "guneydogu-tv",
-      "title": "Güneydoğu TV",
-      "group": "Haber",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/guneydogu-tv.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 103
-    },
-    {
-      "id": "haber61-tv",
-      "title": "Haber61 TV",
-      "group": "Haber",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/haber61-tv.png",
-      "sources": [
-        {
-          "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
-        }
-      ],
-      "number": 104
-    },
-    {
-      "id": "hunat-tv",
-      "title": "Hunat TV",
-      "group": "Yerel",
-      "website": "https://hunattv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/hunat-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
-        }
-      ],
-      "number": 105
-    },
-    {
-      "id": "icel-tv",
-      "title": "İçel TV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/icel-tv.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 106
-    },
-    {
-      "id": "kanal-3",
-      "number": 107,
-      "title": "Kanal 3",
-      "group": "Yerel",
-      "website": "https://www.kanal3.com.tr/",
-      "logoUrl": "https://i.imgur.com/eXErSv0.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
-        }
       ]
     },
     {
-      "id": "kanal-12",
-      "title": "Kanal 12",
-      "group": "Yerel",
-      "website": "https://www.kanal12.net/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-12.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8"
-        }
-      ],
-      "number": 108
-    },
-    {
-      "id": "kanal-15",
-      "title": "Kanal 15",
-      "group": "Yerel",
-      "website": "https://www.kanal15.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-15.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
-        }
-      ],
-      "number": 109
-    },
-    {
       "id": "kanal-23",
-      "number": 110,
+      "number": 85,
       "title": "Kanal 23",
       "group": "Yerel",
       "website": "https://www.kanal23.com/",
@@ -1462,6 +1145,7 @@
     },
     {
       "id": "kanal-26",
+      "number": 86,
       "title": "Kanal 26",
       "group": "Yerel",
       "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-26.png",
@@ -1469,61 +1153,11 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
         }
-      ],
-      "number": 111
-    },
-    {
-      "id": "kanal-32",
-      "title": "Kanal 32",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-32.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 112
-    },
-    {
-      "id": "kanal-33",
-      "title": "Kanal 33",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-33.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 113
-    },
-    {
-      "id": "kanal-58",
-      "title": "Kanal 58",
-      "group": "Yerel",
-      "website": "https://kanal58.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-58.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
-        }
-      ],
-      "number": 114
-    },
-    {
-      "id": "kanal-firat",
-      "title": "Kanal Fırat",
-      "group": "Yerel",
-      "website": "https://kanalfirat.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-firat.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
-        }
-      ],
-      "number": 115
+      ]
     },
     {
       "id": "kanal-v",
+      "number": 87,
       "title": "Kanal V",
       "group": "Yerel",
       "website": "https://www.kanalv.com.tr/",
@@ -1532,38 +1166,50 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
         }
-      ],
-      "number": 116
+      ]
     },
     {
-      "id": "kay-tv",
-      "title": "Kay TV",
+      "id": "kanal-3",
+      "number": 88,
+      "title": "Kanal 3",
       "group": "Yerel",
-      "website": "https://www.kaytv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kay-tv.png",
+      "website": "https://www.kanal3.com.tr/",
+      "logoUrl": "https://i.imgur.com/eXErSv0.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
         }
-      ],
-      "number": 117
+      ]
     },
     {
-      "id": "kent-turk",
-      "title": "Kent Türk",
+      "id": "kanal-firat",
+      "number": 89,
+      "title": "Kanal Fırat",
       "group": "Yerel",
-      "website": "https://www.kentturktv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kent-turk.png",
+      "website": "https://kanalfirat.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-firat.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+          "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8"
         }
-      ],
-      "number": 118
+      ]
+    },
+    {
+      "id": "line-tv",
+      "number": 90,
+      "title": "Line TV",
+      "group": "Yerel",
+      "website": "https://linehaber.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/line-tv.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "kocaeli-tv",
-      "number": 119,
+      "number": 91,
       "title": "Kocaeli TV",
       "group": "Yerel",
       "website": "https://www.kocaelitv.com.tr/",
@@ -1575,33 +1221,21 @@
       ]
     },
     {
-      "id": "konya-olay-tv",
-      "title": "Konya Olay TV",
+      "id": "cay-tv",
+      "number": 92,
+      "title": "Çay TV",
       "group": "Yerel",
-      "website": "https://www.konyaolaytv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/konya-olay-tv.png",
+      "website": "https://www.caytv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/cay-tv.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
+          "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
         }
-      ],
-      "number": 120
-    },
-    {
-      "id": "line-tv",
-      "title": "Line TV",
-      "group": "Yerel",
-      "website": "https://linehaber.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/line-tv.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 121
+      ]
     },
     {
       "id": "mavikaradeniz-tv",
+      "number": 93,
       "title": "MaviKaradeniz TV",
       "group": "Yerel",
       "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/mavikaradeniz-tv.png",
@@ -1609,85 +1243,11 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
         }
-      ],
-      "number": 122
-    },
-    {
-      "id": "mercan-tv",
-      "title": "Mercan TV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/mercan-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
-        }
-      ],
-      "number": 123
-    },
-    {
-      "id": "olay-turk-tv",
-      "title": "Olay Türk TV",
-      "group": "Haber",
-      "website": "https://www.olayturk.tv/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/olay-turk-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
-        }
-      ],
-      "number": 124
-    },
-    {
-      "id": "sun-rtv",
-      "title": "Sun RTV",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/sun-rtv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
-        }
-      ],
-      "number": 125
-    },
-    {
-      "id": "ton-tv",
-      "title": "Ton TV",
-      "group": "Yerel",
-      "website": "https://www.tontv.com.tr/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ton-tv.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
-        }
-      ],
-      "number": 126
-    },
-    {
-      "id": "tv-1",
-      "title": "TV 1",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tv-1.png",
-      "sources": [
-        {
-          "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
-        }
-      ],
-      "number": 127
-    },
-    {
-      "id": "tv-41",
-      "title": "TV 41",
-      "group": "Yerel",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tv-41.png",
-      "sources": [
-        {
-          "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
-        }
-      ],
-      "number": 128
+      ]
     },
     {
       "id": "tv42",
+      "number": 94,
       "title": "TV42",
       "group": "Yerel",
       "website": "https://www.tv42.com.tr/",
@@ -1696,11 +1256,47 @@
         {
           "url": "https://canliyayin.tv42.com.tr/memfs/0c8c4bc7-550a-4239-8e3d-6f4d768391bb.m3u8"
         }
-      ],
-      "number": 129
+      ]
+    },
+    {
+      "id": "haber61-tv",
+      "number": 95,
+      "title": "Haber61 TV",
+      "group": "Haber",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/haber61-tv.png",
+      "sources": [
+        {
+          "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-33",
+      "number": 96,
+      "title": "Kanal 33",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-33.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "altas-tv",
+      "number": 97,
+      "title": "Altaş TV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/altas-tv.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "tv-52",
+      "number": 98,
       "title": "TV 52",
       "group": "Yerel",
       "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tv-52.png",
@@ -1708,11 +1304,11 @@
         {
           "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
         }
-      ],
-      "number": 130
+      ]
     },
     {
       "id": "tv-264",
+      "number": 99,
       "title": "TV 264",
       "group": "Yerel",
       "website": "https://tv264.com.tr/",
@@ -1721,11 +1317,98 @@
         {
           "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
         }
-      ],
-      "number": 131
+      ]
+    },
+    {
+      "id": "es-tv",
+      "number": 100,
+      "title": "ES TV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/es-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ada-tv",
+      "number": 101,
+      "title": "Ada TV",
+      "group": "Uluslararası",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ada-tv.png",
+      "sources": [
+        {
+          "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-58",
+      "number": 102,
+      "title": "Kanal 58",
+      "group": "Yerel",
+      "website": "https://kanal58.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-58.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ertv",
+      "number": 103,
+      "title": "ERTV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ertv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "aksu-tv",
+      "number": 104,
+      "title": "Aksu TV",
+      "group": "Yerel",
+      "website": "https://www.aksutv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/aksu-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "brtv",
+      "number": 105,
+      "title": "BRTV",
+      "group": "Yerel",
+      "website": "https://www.brtv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/brtv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tv-41",
+      "number": 106,
+      "title": "TV 41",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tv-41.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "tv-den",
+      "number": 107,
       "title": "TV Den",
       "group": "Yerel",
       "website": "https://tvden.com.tr/",
@@ -1734,24 +1417,111 @@
         {
           "url": "https://canli.tvden.com.tr/hls/live.m3u8"
         }
-      ],
-      "number": 132
+      ]
     },
     {
-      "id": "urfa-natik-tv",
-      "title": "Urfa Natik TV",
+      "id": "bir-tv",
+      "number": 108,
+      "title": "Bir TV",
       "group": "Yerel",
-      "website": "https://urfanatiktv.com/",
-      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/urfa-natik-tv.png",
+      "website": "https://birtv.tv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/bir-tv.png",
       "sources": [
         {
-          "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
+          "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
         }
-      ],
-      "number": 133
+      ]
+    },
+    {
+      "id": "guneydogu-tv",
+      "number": 109,
+      "title": "Güneydoğu TV",
+      "group": "Haber",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/guneydogu-tv.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-12",
+      "number": 110,
+      "title": "Kanal 12",
+      "group": "Yerel",
+      "website": "https://www.kanal12.net/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-12.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-15",
+      "number": 111,
+      "title": "Kanal 15",
+      "group": "Yerel",
+      "website": "https://www.kanal15.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-15.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kanal-32",
+      "number": 112,
+      "title": "Kanal 32",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kanal-32.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tv-1",
+      "number": 113,
+      "title": "TV 1",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/tv-1.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kay-tv",
+      "number": 114,
+      "title": "Kay TV",
+      "group": "Yerel",
+      "website": "https://www.kaytv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kay-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "sun-rtv",
+      "number": 115,
+      "title": "Sun RTV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/sun-rtv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
+        }
+      ]
     },
     {
       "id": "van-65-tv",
+      "number": 116,
       "title": "Van 65 TV",
       "group": "Yerel",
       "website": "https://van65tv.com/live.php",
@@ -1760,8 +1530,238 @@
         {
           "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8"
         }
-      ],
-      "number": 134
+      ]
+    },
+    {
+      "id": "alanya-posta-tv",
+      "number": 117,
+      "title": "Alanya Posta TV",
+      "group": "Yerel",
+      "website": "https://www.alanyapostatv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/alanya-posta-tv.png",
+      "sources": [
+        {
+          "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "anadolu-net-tv",
+      "number": 118,
+      "title": "Anadolu Net TV",
+      "group": "Yerel",
+      "website": "https://www.anadolunettv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/anadolu-net-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "aras-tv",
+      "number": 119,
+      "title": "Aras TV",
+      "group": "Yerel",
+      "website": "https://aras.tv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/aras-tv.png",
+      "sources": [
+        {
+          "url": "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "atv-alanya",
+      "number": 120,
+      "title": "ATV Alanya",
+      "group": "Yerel",
+      "website": "https://www.alanyatelevizyonu.com.tr/iletisim",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/atv-alanya.png",
+      "sources": [
+        {
+          "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "deniz-postasi-tv",
+      "number": 121,
+      "title": "Deniz Postası TV",
+      "group": "Yerel",
+      "website": "https://www.denizpostasi.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/deniz-postasi-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "diyar-tv",
+      "number": 122,
+      "title": "Diyar TV",
+      "group": "İnanç",
+      "website": "https://www.diyartv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/diyar-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "edessa-tv",
+      "number": 123,
+      "title": "Edessa TV",
+      "group": "Eğlence",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/edessa-tv.png",
+      "sources": [
+        {
+          "url": "https://canli.edessatv.com/hls/stream.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "erzurum-web-tv",
+      "number": 124,
+      "title": "Erzurum Web TV",
+      "group": "Yerel",
+      "website": "https://erzurumwebtv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/erzurum-web-tv.png",
+      "sources": [
+        {
+          "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "etv-kayseri",
+      "number": 125,
+      "title": "ETV Kayseri",
+      "group": "Yerel",
+      "website": "https://www.etvkayseri.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/etv-kayseri.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "etv-manisa",
+      "number": 126,
+      "title": "ETV Manisa",
+      "group": "Yerel",
+      "website": "https://www.etvmanisa.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/etv-manisa.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "hunat-tv",
+      "number": 127,
+      "title": "Hunat TV",
+      "group": "Yerel",
+      "website": "https://hunattv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/hunat-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "icel-tv",
+      "number": 128,
+      "title": "İçel TV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/icel-tv.png",
+      "sources": [
+        {
+          "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kent-turk",
+      "number": 129,
+      "title": "Kent Türk",
+      "group": "Yerel",
+      "website": "https://www.kentturktv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/kent-turk.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "konya-olay-tv",
+      "number": 130,
+      "title": "Konya Olay TV",
+      "group": "Yerel",
+      "website": "https://www.konyaolaytv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/konya-olay-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "mercan-tv",
+      "number": 131,
+      "title": "Mercan TV",
+      "group": "Yerel",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/mercan-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "olay-turk-tv",
+      "number": 132,
+      "title": "Olay Türk TV",
+      "group": "Haber",
+      "website": "https://www.olayturk.tv/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/olay-turk-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ton-tv",
+      "number": 133,
+      "title": "Ton TV",
+      "group": "Yerel",
+      "website": "https://www.tontv.com.tr/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/ton-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "urfa-natik-tv",
+      "number": 134,
+      "title": "Urfa Natik TV",
+      "group": "Yerel",
+      "website": "https://urfanatiktv.com/",
+      "logoUrl": "https://raw.githubusercontent.com/sayginburak/a5ca9b54f309acc6/main/logos/urfa-natik-tv.png",
+      "sources": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
+        }
+      ]
     }
   ]
 }
