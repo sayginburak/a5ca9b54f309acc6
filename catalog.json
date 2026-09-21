@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 21,
-  "updatedAt": "2026-09-21T12:35:52Z",
+  "revision": 22,
+  "updatedAt": "2026-09-21T12:49:32Z",
   "series": [
     {
       "id": "behzat",
@@ -1886,6 +1886,27 @@
       ],
       "language": "dub",
       "kind": "movie"
+    },
+    {
+      "id": "nadirfilm-ivanin-cocuklugu-izle",
+      "title": "İvan’ın Çocukluğu",
+      "subtitle": "Ivanovo detstvo (Ivan’ın Çocukluğu), Andrei Tarkovsky’nin yönettiği 1962 yapımı Sovyet savaş ve dram filmidir. II. Dünya Savaşı sırasında Nazi işgali altındaki Sovyet topraklarında geçen hikâye, ailesini savaşta kaybeden 12 yaşındaki Ivan’ın cephede keşif görevi yapan genç bir çocuk olarak yaşadıkla",
+      "provider": "nadirfilm",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.nadirfilm1.com/wp-content/uploads/2026/08/ivanin-cocuklugu.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "İvan’ın Çocukluğu",
+          "source": "https://www.nadirfilm1.com/ivanin-cocuklugu-izle/",
+          "durationMs": 0,
+          "id": "nadirfilm-ivanin-cocuklugu-izle:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
@@ -2036,6 +2057,33 @@
         "queryParam": "s"
       },
       "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "enabled": true,
+      "experimental": true
+    },
+    {
+      "id": "nadirfilm",
+      "label": "NadirFilm",
+      "family": "wordpress-embed",
+      "engine": "iframe",
+      "baseUrl": "https://www.nadirfilm1.com/",
+      "hosts": [
+        "www.nadirfilm1.com",
+        "nadirfilm1.com"
+      ],
+      "embedHosts": [
+        "ok.ru",
+        "videoseyred.in",
+        "vidsrcme.ru",
+        "cloudorchestranova.com"
+      ],
+      "kinds": [
+        "movie"
+      ],
+      "search": {
+        "path": "/",
+        "queryParam": "film_search"
+      },
+      "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": true
     }
