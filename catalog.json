@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 23,
-  "updatedAt": "2026-09-21T12:52:31Z",
+  "revision": 24,
+  "updatedAt": "2026-09-21T12:54:53Z",
   "series": [
     {
       "id": "behzat",
@@ -1928,6 +1928,643 @@
       ],
       "language": "auto",
       "kind": "movie"
+    },
+    {
+      "id": "sezonlukdizi-chuck",
+      "title": "Chuck",
+      "subtitle": "Chuck dizisini 1080p full hd olarak izle, oyuncuları, konusu ve tartışmalarıyla bilgi sahibi ol, Chuck dizisini türkçe altyazılı yada ingilizce altyazılı izle",
+      "provider": "sezonlukdizi",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://sezonlukdizi.cc/i/dizi/y/b/115.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Pilot",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-1-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "Chuck Versus the Helicopter",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-2-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "Chuck Versus the Tango",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-3-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "Chuck Versus the Wookiee",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-4-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "Chuck Versus the Sizzling Shrimp",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-5-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "Chuck Versus the Sandworm",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-6-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "Chuck Versus the Alma Mater",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-7-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "Chuck Versus the Truth",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-8-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "Chuck Versus the Imported Hard Salami",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-9-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "Chuck Versus the Nemesis",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-10-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "title": "Chuck Versus the Crown Vic",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-11-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "title": "Chuck Versus the Undercover Lover",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-12-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "title": "Chuck Versus the Marlin",
+          "source": "https://sezonlukdizi.cc/chuck/1-sezon-13-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s1:e13"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "title": "Chuck Versus the First Date",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-1-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "title": "Chuck Versus the Seduction",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-2-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "title": "Chuck Versus the Break-Up",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-3-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "title": "Chuck Versus the Cougars",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-4-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "title": "Chuck Versus Tom Sawyer",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-5-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "title": "Chuck Versus the Ex",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-6-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "title": "Chuck Versus the Fat Lady",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-7-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "title": "Chuck Versus the Gravitron",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-8-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "title": "Chuck Versus the Sensei",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-9-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "title": "Chuck Versus the DeLorean",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-10-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "title": "Chuck Versus Santa Claus",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-11-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "title": "Chuck Versus the Third Dimension",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-12-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "title": "Chuck Versus the Suburbs",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-13-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "title": "Chuck Versus the Best Friend",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-14-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "title": "Chuck Versus the Beefcake",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-15-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "title": "Chuck Versus the Lethal Weapon",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-16-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "title": "Chuck Versus the Predator",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-17-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "title": "Chuck Versus the Broken Heart",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-18-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "title": "Chuck Versus the Dream Job",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-19-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "title": "Chuck Versus the First Kill",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-20-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "title": "Chuck Versus the Colonel",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-21-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "title": "Chuck Versus the Ring",
+          "source": "https://sezonlukdizi.cc/chuck/2-sezon-22-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s2:e22"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "title": "Chuck Versus the Pink Slip",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-1-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "title": "Chuck Versus the Three Words",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-2-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "title": "Chuck Versus the Angel de la Muerte",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-3-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "title": "Chuck Versus Operation Awesome",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-4-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "title": "Chuck Versus First Class",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-5-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "title": "Chuck Versus the Nacho Sampler",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-6-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "title": "Chuck Versus the Mask",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-7-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "title": "Chuck Versus the Fake Name",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-8-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "title": "Chuck Versus the Beard",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-9-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "title": "Chuck Versus the Tic Tac",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-10-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "title": "Chuck Versus the Final Exam",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-11-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "title": "Chuck Versus the American Hero",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-12-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "title": "Chuck Versus the Other Guy",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-13-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "title": "Chuck Versus the Honeymooners",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-14-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "title": "Chuck Versus the Role Models",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-15-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "title": "Chuck Versus the Tooth",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-16-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "title": "Chuck Versus the Living Dead",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-17-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e17"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "title": "Chuck Versus the Ring: Part II",
+          "source": "https://sezonlukdizi.cc/chuck/3-sezon-19-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s3:e19"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "title": "Chuck Versus the Coup d'Etat",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-4-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "title": "Chuck Versus the Couch Lock",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-5-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "title": "Chuck Versus the Aisle of Terror",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-6-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "title": "Chuck Versus the First Fight",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-7-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "title": "Chuck Versus the Fear of Death",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-8-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "title": "Chuck Versus Phase Three",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-9-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "title": "Chuck Versus the Leftovers",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-10-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e10"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "title": "Chuck Versus the Gobbler",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-12-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "title": "Chuck Versus the Push Mix",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-13-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "title": "Chuck Versus the Seduction Impossible",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-14-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "title": "Chuck Versus the Cat Squad",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-15-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e15"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "title": "Chuck Versus the Masquerade",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-16-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e16"
+        },
+        {
+          "season": 4,
+          "number": 18,
+          "title": "Chuck Versus the A-Team",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-18-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e18"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "title": "Chuck Versus the Muuurder",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-19-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e19"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "title": "Chuck Versus the Family Volkoff",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-20-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e20"
+        },
+        {
+          "season": 4,
+          "number": 21,
+          "title": "Chuck Versus the Wedding Planner",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-21-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e21"
+        },
+        {
+          "season": 4,
+          "number": 22,
+          "title": "Chuck Versus Agent X",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-22-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e22"
+        },
+        {
+          "season": 4,
+          "number": 23,
+          "title": "Chuck Versus the Last Details",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-23-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e23"
+        },
+        {
+          "season": 4,
+          "number": 24,
+          "title": "Chuck Versus the Cliffhanger",
+          "source": "https://sezonlukdizi.cc/chuck/4-sezon-24-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s4:e24"
+        },
+        {
+          "season": 5,
+          "number": 1,
+          "title": "Chuck Versus the Zoom",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-1-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e1"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "title": "Chuck Versus the Frosted Tips",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-3-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e3"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "title": "Chuck Versus the Hack Off",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-5-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e5"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "title": "Chuck Versus the Bullet Train",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-11-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "title": "Chuck Versus Sarah",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-12-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "title": "Chuck Versus the Goodbye",
+          "source": "https://sezonlukdizi.cc/chuck/5-sezon-13-bolum.html",
+          "durationMs": 0,
+          "id": "sezonlukdizi-chuck:s5:e13"
+        }
+      ],
+      "language": "auto",
+      "kind": "series"
     }
   ],
   "providers": [
@@ -2107,6 +2744,36 @@
       "contentPathPattern": "/(?:film|dizi|bolum)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": true
+    },
+    {
+      "id": "sezonlukdizi",
+      "label": "SezonlukDizi",
+      "family": "sezonlukdizi",
+      "engine": "sezonluk",
+      "baseUrl": "https://sezonlukdizi.cc/",
+      "hosts": [
+        "sezonlukdizi.cc",
+        "www.sezonlukdizi.cc",
+        "sezonlukdizi6.com",
+        "www.sezonlukdizi6.com"
+      ],
+      "embedHosts": [
+        "ok.ru",
+        "videoseyred.in",
+        "dzen.ru",
+        "pixeldrain.com",
+        "odnoklassniki.ru"
+      ],
+      "kinds": [
+        "series"
+      ],
+      "search": {
+        "path": "/ajax/arama.asp",
+        "queryParam": "q"
+      },
+      "contentPathPattern": "/(?:diziler/[a-z0-9]+(?:-[a-z0-9]+)*|bolumler/[a-z0-9]+(?:-[a-z0-9]+)*|[a-z0-9]+(?:-[a-z0-9]+)*/[0-9]+-sezon-[0-9]+-bolum)\\.html",
+      "enabled": true,
+      "experimental": false
     }
   ]
 }
