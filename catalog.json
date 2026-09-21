@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 12,
-  "updatedAt": "2026-09-21T11:17:06Z",
+  "revision": 13,
+  "updatedAt": "2026-09-21T11:17:15Z",
   "series": [
     {
       "id": "behzat",
@@ -1844,27 +1844,6 @@
           "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
-    },
-    {
-      "id": "hdfilmcehennemi-land-baba-3-1990-izle",
-      "title": "Baba 3",
-      "subtitle": "Francis Ford Coppola’nın kült serisinin kapanış filmi Baba III, Michael Corleone’nin içsel hesaplaşmalarını ve ailesiyle olan bağlarını derinlemesine ele alıyor. Yaşlılık ve pişmanlık arasında sıkışan Michael, genç Vincent’ı kendi yerine hazırlarken, karanlık geçmişin izleri bir kez daha ortaya çıka",
-      "provider": "hdfilmcehennemi-land",
-      "accent": "#E3A06C",
-      "artwork": "grid",
-      "coverUrl": "https://www.hdfilmcehennemi.land/wp-content/uploads/2023/11/baba-3-1990-izle.webp",
-      "episodes": [
-        {
-          "season": 1,
-          "number": 1,
-          "title": "Baba 3",
-          "source": "https://www.hdfilmcehennemi.land/film/baba-3-1990-izle/",
-          "durationMs": 0,
-          "id": "hdfilmcehennemi-land-baba-3-1990-izle:s1:e1"
-        }
-      ],
-      "language": "sub",
-      "kind": "movie"
     }
   ],
   "providers": [
