@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 11,
-  "updatedAt": "2026-09-21T11:15:21Z",
+  "revision": 12,
+  "updatedAt": "2026-09-21T11:17:06Z",
   "series": [
     {
       "id": "behzat",
@@ -1864,27 +1864,6 @@
         }
       ],
       "language": "sub",
-      "kind": "movie"
-    },
-    {
-      "id": "kultfilmler-kelebekler-izle",
-      "title": "Kelebekler",
-      "subtitle": "Bir Türk köyünde, ne birbirlerini tanıyan nede babaları hakkında hiçbir şey bilmeyen üç kardeş, babalarının ölümüyle birlikte köylerine geri dönerler. Babaları ve birbirleri hakkında daha fazla bilgi edinmeye başladıkça, kendileri hakkında da daha fazla bilgi edinmeye başlarlar.",
-      "provider": "kultfilmler",
-      "accent": "#E3A06C",
-      "artwork": "grid",
-      "coverUrl": "https://kultfilmler.net/wp-content/uploads/2020/05/Kelebekler-izle.jpg",
-      "episodes": [
-        {
-          "season": 1,
-          "number": 1,
-          "title": "Kelebekler",
-          "source": "https://kultfilmler.net/kelebekler-izle/",
-          "durationMs": 0,
-          "id": "kultfilmler-kelebekler-izle:s1:e1"
-        }
-      ],
-      "language": "auto",
       "kind": "movie"
     }
   ],
