@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 19,
-  "updatedAt": "2026-09-21T12:28:16Z",
+  "revision": 20,
+  "updatedAt": "2026-09-21T12:28:40Z",
   "series": [
     {
       "id": "behzat",
@@ -1844,6 +1844,27 @@
           "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
+    },
+    {
+      "id": "hdfilmcehennemi-godfather-2",
+      "title": "GodFather",
+      "subtitle": "GodFather izle 2022 Hindistan Aksiyon, Suç, Dram türündeki yapımı Türkçe Dublaj hd kalitede hdfilmcehennemi den izleyebilirsiniz.",
+      "provider": "hdfilmcehennemi",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "GodFather",
+          "source": "https://www.hdfilmcehennemi.nl/godfather-2/",
+          "durationMs": 0,
+          "id": "hdfilmcehennemi-godfather-2:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
@@ -1970,6 +1991,32 @@
       "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": true
+    },
+    {
+      "id": "hdfilmcehennemi",
+      "label": "HDFilmCehennemi (.nl)",
+      "family": "hdfilmcehennemi",
+      "engine": "hdfilm",
+      "baseUrl": "https://www.hdfilmcehennemi.nl/",
+      "hosts": [
+        "www.hdfilmcehennemi.nl",
+        "hdfilmcehennemi.nl"
+      ],
+      "embedHosts": [
+        "hdfilmcehennemi.mobi",
+        "www.hdfilmcehennemi.mobi"
+      ],
+      "kinds": [
+        "movie",
+        "series"
+      ],
+      "search": {
+        "path": "/search",
+        "queryParam": "q"
+      },
+      "contentPathPattern": "/(?:[a-z0-9]+(?:-[a-z0-9]+)*|dizi/[a-z0-9]+(?:-[a-z0-9]+)*(?:/sezon-[0-9]+/bolum-[a-z0-9]+(?:-[a-z0-9]+)*)?)/?",
+      "enabled": true,
+      "experimental": false
     }
   ]
 }
