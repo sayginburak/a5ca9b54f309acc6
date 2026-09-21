@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 15,
-  "updatedAt": "2026-09-21T11:23:28Z",
+  "revision": 16,
+  "updatedAt": "2026-09-21T11:27:55Z",
   "series": [
     {
       "id": "behzat",
@@ -1844,6 +1844,27 @@
           "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
+    },
+    {
+      "id": "setfilmizle-kelebekler",
+      "title": "Kelebekler",
+      "subtitle": "Hasanlar köyünün uzak yollarında başlayan sarsıcı bir sessizlik, yıllardır ayrı düşmüş üç kardeşi yeniden aynı topraklarda buluşturur. Çocukluklarından beri bambaşka hayatlar kuran bu kardeşler, kendilerine yabancılaşmış babalarının ani çağrısıyla geride bıraktıkları geçmişe doğru zorunlu bir dönüşe",
+      "provider": "setfilmizle",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://image.tmdb.org/t/p/w500/7FfL2IFkVnwqK95mQVY3IYJK9kR.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Kelebekler",
+          "source": "https://www.setfilmizle.ltd/film/kelebekler/",
+          "durationMs": 0,
+          "id": "setfilmizle-kelebekler:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
@@ -1919,6 +1940,31 @@
         "queryParam": "q"
       },
       "contentPathPattern": "/film/[0-9]+-[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "enabled": true,
+      "experimental": true
+    },
+    {
+      "id": "setfilmizle",
+      "label": "SetFilmizle",
+      "family": "setfilm",
+      "engine": "setplay",
+      "baseUrl": "https://www.setfilmizle.ltd/",
+      "hosts": [
+        "www.setfilmizle.ltd",
+        "setfilmizle.ltd"
+      ],
+      "embedHosts": [
+        "setplay.shop",
+        "fastplay.mom"
+      ],
+      "kinds": [
+        "movie"
+      ],
+      "search": {
+        "path": "/",
+        "queryParam": "s"
+      },
+      "contentPathPattern": "/film/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": true
     }
