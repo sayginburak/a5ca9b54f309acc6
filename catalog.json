@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 18,
-  "updatedAt": "2026-09-21T11:34:38Z",
+  "revision": 19,
+  "updatedAt": "2026-09-21T12:28:16Z",
   "series": [
     {
       "id": "behzat",
@@ -1844,27 +1844,6 @@
           "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
-    },
-    {
-      "id": "sinekfilmizle-kelebekler-kelebekler-2018-izle",
-      "title": "Kelebekler - Kelebekler",
-      "subtitle": "Kelebekler, 2018 yapımı, yönetmenliğini Tolga Karaçelik'in üstlendiği, dram ve mizahı ustaca harmanlayan etkileyici bir Türk filmidir. Başrollerinde Tuğçe Altuğ, Tolga Tekin ve Bartu Küçükçağlayan'ın yer aldığı yapım, üç yabancının ortak bir baba için bir araya gelmesini konu alır. Bu üç kişi, hayat",
-      "provider": "sinekfilmizle",
-      "accent": "#E3A06C",
-      "artwork": "grid",
-      "coverUrl": "https://sinekfilmizle.net/wp-content/uploads/2026/08/kelebekler.jpg",
-      "episodes": [
-        {
-          "season": 1,
-          "number": 1,
-          "title": "Kelebekler - Kelebekler",
-          "source": "https://sinekfilmizle.net/kelebekler-kelebekler-2018-izle/",
-          "durationMs": 0,
-          "id": "sinekfilmizle-kelebekler-kelebekler-2018-izle:s1:e1"
-        }
-      ],
-      "language": "auto",
-      "kind": "movie"
     }
   ],
   "providers": [
