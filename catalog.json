@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "revision": 13,
-  "updatedAt": "2026-09-21T11:17:15Z",
+  "revision": 14,
+  "updatedAt": "2026-09-21T11:17:28Z",
   "series": [
     {
       "id": "behzat",
@@ -1844,6 +1844,27 @@
           "id": "diziyou-tr-narcos:s3:e10"
         }
       ]
+    },
+    {
+      "id": "filmizlehell-3620-kelebekler-izle",
+      "title": "Kelebekler",
+      "subtitle": "Kelebekler filminde Cemal, Suzan ve Kenan adında üç kardeş, otuz yıl sonra babalarından gelen bir telefon üzerine Hasanlar Köyü'ndeki evlerine döner. Yıllarca ayrı kalmış bu kardeşler, birbirine yabancıdır. Bu yolculuk, onları kendi geçmişleriyle ve hiç tanımadıkları babalarının gölgesiyle yüzleşmey",
+      "provider": "filmizlehell",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://filmizlehell.net/storage/posters/19547/kelebekler-poster.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Kelebekler",
+          "source": "https://filmizlehell.net/film/3620-kelebekler-izle",
+          "durationMs": 0,
+          "id": "filmizlehell-3620-kelebekler-izle:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie"
     }
   ],
   "providers": [
@@ -1897,6 +1918,30 @@
       "contentPathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": false
+    },
+    {
+      "id": "filmizlehell",
+      "label": "FilmizleHell",
+      "family": "filmizlehell",
+      "engine": "iframe",
+      "baseUrl": "https://filmizlehell.net/",
+      "hosts": [
+        "filmizlehell.net",
+        "www.filmizlehell.net"
+      ],
+      "embedHosts": [
+        "p.playturka.space"
+      ],
+      "kinds": [
+        "movie"
+      ],
+      "search": {
+        "path": "/arama",
+        "queryParam": "q"
+      },
+      "contentPathPattern": "/film/[0-9]+-[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "enabled": true,
+      "experimental": true
     }
   ]
 }
