@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 28,
-  "updatedAt": "2026-09-22T18:10:07Z",
+  "revision": 29,
+  "updatedAt": "2026-09-22T18:14:12Z",
   "series": [
     {
       "id": "behzat",
@@ -3147,7 +3147,8 @@
         "www.dizipal2133.com"
       ],
       "embedHosts": [
-        "imagestoo.com"
+        "imagestoo.com",
+        "formationfeed.net"
       ],
       "kinds": [
         "series",
