@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 29,
-  "updatedAt": "2026-09-22T18:14:12Z",
+  "revision": 30,
+  "updatedAt": "2026-09-22T18:30:23Z",
   "series": [
     {
       "id": "behzat",
@@ -2904,28 +2904,6 @@
       "language": "auto",
       "kind": "series",
       "addedAt": "2026-09-21T22:39:00Z"
-    },
-    {
-      "id": "dizipal-blackberry-1f5abba3cd29",
-      "title": "BlackBerry",
-      "subtitle": "Dünyanın ilk akıllı telefonunun yükseliş ve çöküş hikayesini anlatan bir film. Cep telefonlarının tarihini değiştiren icat olan BlackBerry olmadan iletişim teknolojisi aynı şekilde anlaşılamazdı. Zeki bir mühendis olan Mike Lazaridis ve kararlı bir iş adamı olan Jim Balsillie, birlikte kısa bir süre",
-      "provider": "dizipal",
-      "accent": "#E50914",
-      "artwork": "grid",
-      "coverUrl": "https://cdn.imags.me/uploads/posters/blackberry.webp",
-      "episodes": [
-        {
-          "season": 1,
-          "number": 1,
-          "title": "BlackBerry",
-          "source": "https://dizipal2133.com/film/blackberry",
-          "durationMs": 0,
-          "id": "dizipal-blackberry-1f5abba3cd29:s1:e1"
-        }
-      ],
-      "language": "auto",
-      "kind": "movie",
-      "addedAt": "2026-09-22T18:10:07Z"
     }
   ],
   "providers": [
