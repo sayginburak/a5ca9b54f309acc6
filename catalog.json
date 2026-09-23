@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 33,
-  "updatedAt": "2026-09-23T21:57:47Z",
+  "revision": 34,
+  "updatedAt": "2026-09-23T22:32:54Z",
   "series": [
     {
       "id": "behzat",
@@ -2586,6 +2586,340 @@
       ],
       "language": "auto",
       "kind": "movie"
+    },
+    {
+      "id": "dizibox-halt-and-catch-fire-15c2d1b30df2",
+      "title": "Halt and Catch Fire",
+      "subtitle": "2014",
+      "provider": "dizibox",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.dizibox.live/wp-content/uploads/afisler/halt-and-catch-fire-200x290.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-1-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-2-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-3-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-4-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-5-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-6-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-7-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-8-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-9-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-1-sezon-10-bolum-sezon-finali-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s1:e10"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-1-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-2-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-3-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-4-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-5-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-6-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-7-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-8-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-9-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-2-sezon-10-bolum-final-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s2:e10"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-1-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-2-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-3-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-4-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-5-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-6-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-7-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-8-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-9-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-3-sezon-10-bolum-sezon-finali-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s3:e10"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-1-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-2-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-3-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-4-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-5-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-6-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-7-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-8-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-9-bolum-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.dizibox.live/halt-and-catch-fire-4-sezon-10-bolum-final-izle/",
+          "durationMs": 0,
+          "id": "dizibox-halt-and-catch-fire-15c2d1b30df2:s4:e10"
+        }
+      ],
+      "language": "auto",
+      "kind": "series",
+      "addedAt": "2026-09-23T22:32:54Z"
     }
   ],
   "providers": [
@@ -2822,6 +3156,32 @@
       "episodePathPattern": "/bolum/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
       "experimental": false
+    },
+    {
+      "id": "dizibox",
+      "label": "Dizibox",
+      "family": "dizibox",
+      "engine": "dizibox",
+      "baseUrl": "https://www.dizibox.live/",
+      "hosts": [
+        "www.dizibox.live",
+        "dizibox.live"
+      ],
+      "embedHosts": [
+        "dbx.molystream.org",
+        "vidmoly.biz"
+      ],
+      "kinds": [
+        "series"
+      ],
+      "search": {
+        "path": "/arsiv/",
+        "queryParam": "s"
+      },
+      "contentPathPattern": "/diziler/[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "episodePathPattern": "/[a-z0-9]+(?:-[a-z0-9]+)*-[0-9]+-sezon-[0-9]+-bolum(?:-[a-z0-9]+(?:-[a-z0-9]+)*)?/?",
+      "enabled": true,
+      "experimental": true
     }
   ]
 }
