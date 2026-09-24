@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 34,
-  "updatedAt": "2026-09-23T22:32:54Z",
+  "revision": 35,
+  "updatedAt": "2026-09-24T16:53:55Z",
   "series": [
     {
       "id": "behzat",
@@ -2920,6 +2920,1228 @@
       "language": "auto",
       "kind": "series",
       "addedAt": "2026-09-23T22:32:54Z"
+    },
+    {
+      "id": "diziyou-tr-the-mentalist-c84b392db896",
+      "title": "The Mentalist",
+      "subtitle": "Dil: Otomatik",
+      "provider": "diziyou-tr",
+      "accent": "#8BB9CF",
+      "artwork": "grid",
+      "coverUrl": "https://cdn.diziyou.one/wp-content/uploads/posters/the-mentalist.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Pilot",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "Red Hair And Silver Tape",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "Red Tide",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "Ladies in Red",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "Redwood",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "Red-Handed",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "Seeing Red",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "The Thin Red Line",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "Flame Red",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "Red Brick and Ivy",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "title": "Red John’s Friends",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "title": "Red Rum",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "title": "Paint it Red",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "title": "Crimson Casanova",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "title": "Scarlet Fever",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "title": "Bloodshot",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "title": "Carnelian, Inc.",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "title": "Russet Potatoes",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "title": "A Dozen Red Roses",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e19"
+        },
+        {
+          "season": 1,
+          "number": 20,
+          "title": "Red Sauce",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e20"
+        },
+        {
+          "season": 1,
+          "number": 21,
+          "title": "Miss Red",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e21"
+        },
+        {
+          "season": 1,
+          "number": 22,
+          "title": "Blood Brothers",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e22"
+        },
+        {
+          "season": 1,
+          "number": 23,
+          "title": "Red John’s Footsteps",
+          "source": "https://www.diziyou.one/the-mentalist-1-sezon-23-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s1:e23"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "title": "Redemption",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "title": "The Scarlet Letter",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "title": "Red Badge",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "title": "Red Menace",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "title": "Red Scare",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "title": "Black Gold and Red Blood",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "title": "Red Bulls",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "title": "His Red Right Hand",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "title": "A Price Above Rubies",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "title": "Throwing Fire",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "title": "Rose-Colored Glasses",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "title": "Bleeding Heart",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "title": "Redline",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "title": "Blood In, Blood Out",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "title": "Red Herring",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "title": "Code Red",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e16"
+        },
+        {
+          "season": 2,
+          "number": 17,
+          "title": "The Red Box",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e17"
+        },
+        {
+          "season": 2,
+          "number": 18,
+          "title": "Aingavite Baa",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e18"
+        },
+        {
+          "season": 2,
+          "number": 19,
+          "title": "Blood Money",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e19"
+        },
+        {
+          "season": 2,
+          "number": 20,
+          "title": "Red All Over",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e20"
+        },
+        {
+          "season": 2,
+          "number": 21,
+          "title": "18-5-04",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e21"
+        },
+        {
+          "season": 2,
+          "number": 22,
+          "title": "Red Letter",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e22"
+        },
+        {
+          "season": 2,
+          "number": 23,
+          "title": "Red Sky in the Morning",
+          "source": "https://www.diziyou.one/the-mentalist-2-sezon-23-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s2:e23"
+        },
+        {
+          "season": 3,
+          "number": 1,
+          "title": "Red Sky at Night",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e1"
+        },
+        {
+          "season": 3,
+          "number": 2,
+          "title": "Cackle-Bladder Blood",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e2"
+        },
+        {
+          "season": 3,
+          "number": 3,
+          "title": "The Blood on His Hands",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e3"
+        },
+        {
+          "season": 3,
+          "number": 4,
+          "title": "Red Carpet Treatment",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e4"
+        },
+        {
+          "season": 3,
+          "number": 5,
+          "title": "The Red Ponies",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e5"
+        },
+        {
+          "season": 3,
+          "number": 6,
+          "title": "Pink Chanel Suit",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e6"
+        },
+        {
+          "season": 3,
+          "number": 7,
+          "title": "Red Hot",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e7"
+        },
+        {
+          "season": 3,
+          "number": 8,
+          "title": "Ball of Fire",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e8"
+        },
+        {
+          "season": 3,
+          "number": 9,
+          "title": "Red Moon",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e9"
+        },
+        {
+          "season": 3,
+          "number": 10,
+          "title": "Jolly Red Elf",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e10"
+        },
+        {
+          "season": 3,
+          "number": 11,
+          "title": "Bloodsport",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e11"
+        },
+        {
+          "season": 3,
+          "number": 12,
+          "title": "Bloodhounds",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e12"
+        },
+        {
+          "season": 3,
+          "number": 13,
+          "title": "Red Alert",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e13"
+        },
+        {
+          "season": 3,
+          "number": 14,
+          "title": "Blood For Blood",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e14"
+        },
+        {
+          "season": 3,
+          "number": 15,
+          "title": "Red Gold",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e15"
+        },
+        {
+          "season": 3,
+          "number": 16,
+          "title": "Red Queen",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e16"
+        },
+        {
+          "season": 3,
+          "number": 17,
+          "title": "Bloodstream",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e17"
+        },
+        {
+          "season": 3,
+          "number": 18,
+          "title": "The Red Mile",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e18"
+        },
+        {
+          "season": 3,
+          "number": 19,
+          "title": "Every Rose Has Its Thorn",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e19"
+        },
+        {
+          "season": 3,
+          "number": 20,
+          "title": "Redacted",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e20"
+        },
+        {
+          "season": 3,
+          "number": 21,
+          "title": "Like A Redheaded Stepchild",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e21"
+        },
+        {
+          "season": 3,
+          "number": 22,
+          "title": "Rhapsody in Red",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e22"
+        },
+        {
+          "season": 3,
+          "number": 23,
+          "title": "Strawberries & Cream - Part1",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-23-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e23"
+        },
+        {
+          "season": 3,
+          "number": 24,
+          "title": "Strawberries & Cream - Part2",
+          "source": "https://www.diziyou.one/the-mentalist-3-sezon-24-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s3:e24"
+        },
+        {
+          "season": 4,
+          "number": 1,
+          "title": "Scarlet Ribbons",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "title": "Little Red Book",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "title": "Pretty Red Balloon",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "title": "Ring Around the Rosie",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "title": "Blood and Sand",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "title": "Where in the World is Carmine O’Brien?",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "title": "Blinking Red Light",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "title": "Pink Tops",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "title": "The Redshirt",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "title": "Fugue in Red",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e10"
+        },
+        {
+          "season": 4,
+          "number": 11,
+          "title": "Always Bet on Red",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e11"
+        },
+        {
+          "season": 4,
+          "number": 12,
+          "title": "My Bloody Valentine",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e12"
+        },
+        {
+          "season": 4,
+          "number": 13,
+          "title": "Red is the New Black",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e13"
+        },
+        {
+          "season": 4,
+          "number": 14,
+          "title": "At First Blush",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e14"
+        },
+        {
+          "season": 4,
+          "number": 15,
+          "title": "War of the Roses",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e15"
+        },
+        {
+          "season": 4,
+          "number": 16,
+          "title": "His Thoughts Were Red Thoughts",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e16"
+        },
+        {
+          "season": 4,
+          "number": 17,
+          "title": "Cheap Burgundy",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e17"
+        },
+        {
+          "season": 4,
+          "number": 18,
+          "title": "Ruddy Cheeks",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e18"
+        },
+        {
+          "season": 4,
+          "number": 19,
+          "title": "Pink Champagne on Ice",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e19"
+        },
+        {
+          "season": 4,
+          "number": 20,
+          "title": "Something Rotten in Redmund",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e20"
+        },
+        {
+          "season": 4,
+          "number": 21,
+          "title": "Ruby Slippers",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e21"
+        },
+        {
+          "season": 4,
+          "number": 22,
+          "title": "So Long, and Thanks for All the Red Snapper",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e22"
+        },
+        {
+          "season": 4,
+          "number": 23,
+          "title": "Red Rover, Red Rover",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-23-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e23"
+        },
+        {
+          "season": 4,
+          "number": 24,
+          "title": "The Crimson Hat",
+          "source": "https://www.diziyou.one/the-mentalist-4-sezon-24-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s4:e24"
+        },
+        {
+          "season": 5,
+          "number": 1,
+          "title": "The Crimson Ticket",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e1"
+        },
+        {
+          "season": 5,
+          "number": 2,
+          "title": "Devil's Cherry",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e2"
+        },
+        {
+          "season": 5,
+          "number": 3,
+          "title": "Not One Red Cent",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e3"
+        },
+        {
+          "season": 5,
+          "number": 4,
+          "title": "Blood Feud",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e4"
+        },
+        {
+          "season": 5,
+          "number": 5,
+          "title": "Red Dawn",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e5"
+        },
+        {
+          "season": 5,
+          "number": 6,
+          "title": "Cherry Picked",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e6"
+        },
+        {
+          "season": 5,
+          "number": 7,
+          "title": "If It Bleeds, It Leads",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e7"
+        },
+        {
+          "season": 5,
+          "number": 8,
+          "title": "Red Sails In The Sunset",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e8"
+        },
+        {
+          "season": 5,
+          "number": 9,
+          "title": "Black Cherry",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e9"
+        },
+        {
+          "season": 5,
+          "number": 10,
+          "title": "Panama Red",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e10"
+        },
+        {
+          "season": 5,
+          "number": 11,
+          "title": "Days Of Wine & Roses",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e11"
+        },
+        {
+          "season": 5,
+          "number": 12,
+          "title": "Little Red Corvette",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e12"
+        },
+        {
+          "season": 5,
+          "number": 13,
+          "title": "The Red Barn",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e13"
+        },
+        {
+          "season": 5,
+          "number": 14,
+          "title": "Red In Tooth And Claw",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e14"
+        },
+        {
+          "season": 5,
+          "number": 15,
+          "title": "Red Lacguer Nail Polish",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e15"
+        },
+        {
+          "season": 5,
+          "number": 16,
+          "title": "There Will Be Blood",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e16"
+        },
+        {
+          "season": 5,
+          "number": 17,
+          "title": "Red, White And Blue",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e17"
+        },
+        {
+          "season": 5,
+          "number": 18,
+          "title": "Behind The Red Curtain",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e18"
+        },
+        {
+          "season": 5,
+          "number": 19,
+          "title": "Red Letter Day",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e19"
+        },
+        {
+          "season": 5,
+          "number": 20,
+          "title": "Red Velvet Cupcakes",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e20"
+        },
+        {
+          "season": 5,
+          "number": 21,
+          "title": "Red And Itchy",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e21"
+        },
+        {
+          "season": 5,
+          "number": 22,
+          "title": "Red John's Rules",
+          "source": "https://www.diziyou.one/the-mentalist-5-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s5:e22"
+        },
+        {
+          "season": 6,
+          "number": 1,
+          "title": "The Desert Rose",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e1"
+        },
+        {
+          "season": 6,
+          "number": 2,
+          "title": "Black-Winged Redbird",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e2"
+        },
+        {
+          "season": 6,
+          "number": 3,
+          "title": "Wedding In Red",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e3"
+        },
+        {
+          "season": 6,
+          "number": 4,
+          "title": "Red Listed",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e4"
+        },
+        {
+          "season": 6,
+          "number": 5,
+          "title": "The Red Tatoo",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e5"
+        },
+        {
+          "season": 6,
+          "number": 6,
+          "title": "Fire And Brimstone",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e6"
+        },
+        {
+          "season": 6,
+          "number": 7,
+          "title": "The Great Red Dragon",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e7"
+        },
+        {
+          "season": 6,
+          "number": 8,
+          "title": "Red John",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e8"
+        },
+        {
+          "season": 6,
+          "number": 9,
+          "title": "My Blue Heaven",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e9"
+        },
+        {
+          "season": 6,
+          "number": 10,
+          "title": "Green Thumb",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e10"
+        },
+        {
+          "season": 6,
+          "number": 11,
+          "title": "White Lines",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e11"
+        },
+        {
+          "season": 6,
+          "number": 12,
+          "title": "Golden Hammer",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e12"
+        },
+        {
+          "season": 6,
+          "number": 13,
+          "title": "Black Helicopters",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e13"
+        },
+        {
+          "season": 6,
+          "number": 14,
+          "title": "Grey Water",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e14"
+        },
+        {
+          "season": 6,
+          "number": 15,
+          "title": "White As The Driven Snow",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e15"
+        },
+        {
+          "season": 6,
+          "number": 16,
+          "title": "Violets",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e16"
+        },
+        {
+          "season": 6,
+          "number": 17,
+          "title": "Silver Wings Of Times",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e17"
+        },
+        {
+          "season": 6,
+          "number": 18,
+          "title": "Forest Green",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e18"
+        },
+        {
+          "season": 6,
+          "number": 19,
+          "title": "Brown Eyed Girls",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e19"
+        },
+        {
+          "season": 6,
+          "number": 20,
+          "title": "Il Tavolo Bianco",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-20-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e20"
+        },
+        {
+          "season": 6,
+          "number": 21,
+          "title": "Black Hearts",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-21-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e21"
+        },
+        {
+          "season": 6,
+          "number": 22,
+          "title": "Blue Bird",
+          "source": "https://www.diziyou.one/the-mentalist-6-sezon-22-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s6:e22"
+        },
+        {
+          "season": 7,
+          "number": 1,
+          "title": "Nothing But Blue Skies",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e1"
+        },
+        {
+          "season": 7,
+          "number": 2,
+          "title": "The Greybar Hotel",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e2"
+        },
+        {
+          "season": 7,
+          "number": 3,
+          "title": "Orange Blossom Ice Cream",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e3"
+        },
+        {
+          "season": 7,
+          "number": 4,
+          "title": "Black Market",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e4"
+        },
+        {
+          "season": 7,
+          "number": 5,
+          "title": "The Silver Briefcase",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e5"
+        },
+        {
+          "season": 7,
+          "number": 6,
+          "title": "Green Light",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e6"
+        },
+        {
+          "season": 7,
+          "number": 7,
+          "title": "Little Yellow House",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e7"
+        },
+        {
+          "season": 7,
+          "number": 8,
+          "title": "The Whites Of His Eyes",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e8"
+        },
+        {
+          "season": 7,
+          "number": 9,
+          "title": "Copper Bullet",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e9"
+        },
+        {
+          "season": 7,
+          "number": 10,
+          "title": "Nothing Gold Can Stay",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e10"
+        },
+        {
+          "season": 7,
+          "number": 11,
+          "title": "Byzantium",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e11"
+        },
+        {
+          "season": 7,
+          "number": 12,
+          "title": "Brown Shag Carpet",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e12"
+        },
+        {
+          "season": 7,
+          "number": 13,
+          "title": "White Orchids (MUTLU SON",
+          "source": "https://www.diziyou.one/the-mentalist-7-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-the-mentalist-c84b392db896:s7:e13"
+        }
+      ],
+      "language": "auto",
+      "kind": "series",
+      "addedAt": "2026-09-24T16:53:55Z"
     }
   ],
   "providers": [
