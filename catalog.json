@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 35,
-  "updatedAt": "2026-09-24T16:53:55Z",
+  "revision": 36,
+  "updatedAt": "2026-09-27T10:45:36Z",
   "series": [
     {
       "id": "behzat",
@@ -4142,6 +4142,28 @@
       "language": "auto",
       "kind": "series",
       "addedAt": "2026-09-24T16:53:55Z"
+    },
+    {
+      "id": "hdfilmcehennemi-the-founder-izle-6-c0e9befdb134",
+      "title": "The Founder",
+      "subtitle": "Ünlü fast food markası McDonald’s‘ın biyografisinin anlatıldığı The Founder filminde daha çok McDonalds’ın nasıl kurulduğuna ve eski hikayesine odaklanıyor.",
+      "provider": "hdfilmcehennemi",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.hdfilmcehennemi.nl/uploads/poster/the-founder-izle.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "The Founder",
+          "source": "https://www.hdfilmcehennemi.nl/the-founder-izle-6/",
+          "durationMs": 0,
+          "id": "hdfilmcehennemi-the-founder-izle-6-c0e9befdb134:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie",
+      "addedAt": "2026-09-27T10:45:36Z"
     }
   ],
   "providers": [
