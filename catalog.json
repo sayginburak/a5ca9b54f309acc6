@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 36,
-  "updatedAt": "2026-09-27T10:45:36Z",
+  "revision": 37,
+  "updatedAt": "2026-10-04T18:42:20Z",
   "series": [
     {
       "id": "behzat",
@@ -4164,6 +4164,100 @@
       "language": "auto",
       "kind": "movie",
       "addedAt": "2026-09-27T10:45:36Z"
+    },
+    {
+      "id": "diziyou-tr-messiah-ac2bde2c9b94",
+      "title": "Messiah",
+      "subtitle": "Dil: Türkçe altyazı",
+      "provider": "diziyou-tr",
+      "accent": "#8BB9CF",
+      "artwork": "grid",
+      "coverUrl": "https://cdn.diziyou.one/wp-content/uploads/posters/messiah.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "He That Hath an Ear",
+          "source": "https://www.diziyou.one/messiah-1-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "Tremor",
+          "source": "https://www.diziyou.one/messiah-1-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "The Finger of God",
+          "source": "https://www.diziyou.one/messiah-1-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "Trial",
+          "source": "https://www.diziyou.one/messiah-1-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "So That Seeing They May Not See",
+          "source": "https://www.diziyou.one/messiah-1-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "We Will Not All Sleep",
+          "source": "https://www.diziyou.one/messiah-1-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "It Came to Pass as It Was Spoken",
+          "source": "https://www.diziyou.one/messiah-1-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "Force Majeure",
+          "source": "https://www.diziyou.one/messiah-1-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "God Is Greater",
+          "source": "https://www.diziyou.one/messiah-1-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "The Wages of Sin",
+          "source": "https://www.diziyou.one/messiah-1-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-messiah-ac2bde2c9b94:s1:e10"
+        }
+      ],
+      "language": "sub",
+      "kind": "series",
+      "addedAt": "2026-10-04T18:42:20Z"
     }
   ],
   "providers": [
