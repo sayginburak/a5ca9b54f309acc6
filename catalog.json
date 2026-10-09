@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 37,
-  "updatedAt": "2026-10-04T18:42:20Z",
+  "revision": 38,
+  "updatedAt": "2026-10-09T15:09:42Z",
   "series": [
     {
       "id": "behzat",
@@ -4258,6 +4258,300 @@
       "language": "sub",
       "kind": "series",
       "addedAt": "2026-10-04T18:42:20Z"
+    },
+    {
+      "id": "diziyou-tr-matlock-9e0331372b16",
+      "title": "Matlock",
+      "subtitle": "Dil: Otomatik",
+      "provider": "diziyou-tr",
+      "accent": "#8BB9CF",
+      "artwork": "grid",
+      "coverUrl": "https://cdn.diziyou.one/wp-content/uploads/posters/matlock.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e8"
+        },
+        {
+          "season": 1,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e9"
+        },
+        {
+          "season": 1,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e10"
+        },
+        {
+          "season": 1,
+          "number": 11,
+          "title": "11. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e11"
+        },
+        {
+          "season": 1,
+          "number": 12,
+          "title": "12. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e12"
+        },
+        {
+          "season": 1,
+          "number": 13,
+          "title": "13. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e13"
+        },
+        {
+          "season": 1,
+          "number": 14,
+          "title": "14. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e14"
+        },
+        {
+          "season": 1,
+          "number": 15,
+          "title": "15. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e15"
+        },
+        {
+          "season": 1,
+          "number": 16,
+          "title": "16. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e16"
+        },
+        {
+          "season": 1,
+          "number": 17,
+          "title": "17. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-17-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e17"
+        },
+        {
+          "season": 1,
+          "number": 18,
+          "title": "18. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-18-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e18"
+        },
+        {
+          "season": 1,
+          "number": 19,
+          "title": "19. Bölüm",
+          "source": "https://www.diziyou.one/matlock-1-sezon-19-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s1:e19"
+        },
+        {
+          "season": 2,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e1"
+        },
+        {
+          "season": 2,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e2"
+        },
+        {
+          "season": 2,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e3"
+        },
+        {
+          "season": 2,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e4"
+        },
+        {
+          "season": 2,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e5"
+        },
+        {
+          "season": 2,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e6"
+        },
+        {
+          "season": 2,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e7"
+        },
+        {
+          "season": 2,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e8"
+        },
+        {
+          "season": 2,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-9-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e9"
+        },
+        {
+          "season": 2,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-10-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e10"
+        },
+        {
+          "season": 2,
+          "number": 11,
+          "title": "11. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-11-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e11"
+        },
+        {
+          "season": 2,
+          "number": 12,
+          "title": "12. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-12-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e12"
+        },
+        {
+          "season": 2,
+          "number": 13,
+          "title": "13. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-13-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e13"
+        },
+        {
+          "season": 2,
+          "number": 14,
+          "title": "14. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-14-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e14"
+        },
+        {
+          "season": 2,
+          "number": 15,
+          "title": "15. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-15-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e15"
+        },
+        {
+          "season": 2,
+          "number": 16,
+          "title": "16. Bölüm",
+          "source": "https://www.diziyou.one/matlock-2-sezon-16-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-matlock-9e0331372b16:s2:e16"
+        }
+      ],
+      "language": "auto",
+      "kind": "series",
+      "addedAt": "2026-10-09T15:09:42Z"
     }
   ],
   "providers": [
