@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 42,
-  "updatedAt": "2026-10-09T15:20:59Z",
+  "revision": 43,
+  "updatedAt": "2026-10-13T23:15:48Z",
   "series": [
     {
       "id": "behzat",
@@ -4552,6 +4552,28 @@
       "language": "dub",
       "kind": "series",
       "addedAt": "2026-10-09T15:20:59Z"
+    },
+    {
+      "id": "kultfilmler-behzat-c-seni-kalbime-gomdum-izle-03612a4f3302",
+      "title": "Behzat Ç.: Seni Kalbime Gömdüm",
+      "subtitle": "Gergin bir polis memuru olan Behzat Ç. Ankara'da ardı ardına işlenen cinayetlerin ardındaki gizemi çözmeye çalışır. Katil kurbanlarını emekli polisler ve yakınlarından seçiyor. Emekli polislerle alakalı araştırma yapan Behzat Ç. bahsi geçen polislerin sicil kayıtlarının yok edildiğini görüyor. Ortak",
+      "provider": "kultfilmler",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://kultfilmler.net/wp-content/uploads/2022/05/behzat-c-seni-kalbime-gomdum-izle.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Behzat Ç.: Seni Kalbime Gömdüm",
+          "source": "https://kultfilmler.net/behzat-c-seni-kalbime-gomdum-izle/",
+          "durationMs": 0,
+          "id": "kultfilmler-behzat-c-seni-kalbime-gomdum-izle-03612a4f3302:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie",
+      "addedAt": "2026-10-13T23:15:48Z"
     }
   ],
   "providers": [
