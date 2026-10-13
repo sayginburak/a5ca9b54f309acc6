@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 43,
-  "updatedAt": "2026-10-13T23:15:48Z",
+  "revision": 44,
+  "updatedAt": "2026-10-13T23:16:06Z",
   "series": [
     {
       "id": "behzat",
@@ -4574,6 +4574,28 @@
       "language": "auto",
       "kind": "movie",
       "addedAt": "2026-10-13T23:15:48Z"
+    },
+    {
+      "id": "setfilmizle-behzat-c-ankara-yaniyor-a208583eea6b",
+      "title": "Behzat Ç. Ankara Yaniyor",
+      "subtitle": "Ankara'nın sert ve boğucu sokaklarında peş peşe işlenen cinayetler, bütün ülkeyi huzursuz eden büyük bir kaosu tetiklerken sokaklarda polis şiddetine karşı halk ayaklanmaları baş gösterir. Alman konsolosluğunda görevli bir vize memurunun, bir mahalle bakkalının ve İçişleri bakanının öldürülmesi karm",
+      "provider": "setfilmizle",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://image.tmdb.org/t/p/w500/AqxFA7U5RdSVq5Y8CbkbU6uglZJ.jpg",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Behzat Ç. Ankara Yaniyor",
+          "source": "https://www.setfilmizle.ltd/film/behzat-c-ankara-yaniyor/",
+          "durationMs": 0,
+          "id": "setfilmizle-behzat-c-ankara-yaniyor-a208583eea6b:s1:e1"
+        }
+      ],
+      "language": "auto",
+      "kind": "movie",
+      "addedAt": "2026-10-13T23:16:06Z"
     }
   ],
   "providers": [
