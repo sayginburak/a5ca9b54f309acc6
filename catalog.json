@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 44,
-  "updatedAt": "2026-10-13T23:16:06Z",
+  "revision": 45,
+  "updatedAt": "2026-10-16T22:27:26Z",
   "series": [
     {
       "id": "behzat",
@@ -4596,6 +4596,84 @@
       "language": "auto",
       "kind": "movie",
       "addedAt": "2026-10-13T23:16:06Z"
+    },
+    {
+      "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4",
+      "title": "Organize İşler: Karun Hazinesi",
+      "subtitle": "Dil: Otomatik",
+      "provider": "diziyou-tr",
+      "accent": "#8BB9CF",
+      "artwork": "grid",
+      "coverUrl": "https://cdn.diziyou.one/wp-content/uploads/posters/organize-isler-karun-hazinesi.webp",
+      "episodes": [
+        {
+          "season": 1,
+          "number": 1,
+          "title": "Episode 1",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-1-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e1"
+        },
+        {
+          "season": 1,
+          "number": 2,
+          "title": "Episode 2",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-2-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e2"
+        },
+        {
+          "season": 1,
+          "number": 3,
+          "title": "Episode 3",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-3-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e3"
+        },
+        {
+          "season": 1,
+          "number": 4,
+          "title": "Episode 4",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-4-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e4"
+        },
+        {
+          "season": 1,
+          "number": 5,
+          "title": "Episode 5",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-5-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e5"
+        },
+        {
+          "season": 1,
+          "number": 6,
+          "title": "Episode 6",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-6-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e6"
+        },
+        {
+          "season": 1,
+          "number": 7,
+          "title": "Episode 7",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-7-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e7"
+        },
+        {
+          "season": 1,
+          "number": 8,
+          "title": "Episode 8",
+          "source": "https://www.diziyou.one/organize-isler-karun-hazinesi-1-sezon-8-bolum/",
+          "durationMs": 0,
+          "id": "diziyou-tr-organize-isler-karun-hazinesi-a024102135f4:s1:e8"
+        }
+      ],
+      "language": "auto",
+      "kind": "series",
+      "addedAt": "2026-10-16T22:27:26Z"
     }
   ],
   "providers": [
