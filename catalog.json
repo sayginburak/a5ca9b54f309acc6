@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 46,
-  "updatedAt": "2026-11-11T21:17:13Z",
+  "revision": 47,
+  "updatedAt": "2026-11-14T19:35:45Z",
   "series": [
     {
       "id": "behzat",
@@ -4674,84 +4674,6 @@
       "language": "auto",
       "kind": "series",
       "addedAt": "2026-10-16T22:27:26Z"
-    },
-    {
-      "id": "dizibox-bir-baskadir-ff7ce4b28375",
-      "title": "Bir Başkadır",
-      "subtitle": "2020",
-      "provider": "dizibox",
-      "accent": "#E3A06C",
-      "artwork": "grid",
-      "coverUrl": "https://www.dizibox.live/wp-content/uploads/afisler/bir-baskadir-200x290.jpg",
-      "episodes": [
-        {
-          "season": 1,
-          "number": 1,
-          "title": "1. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-1-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e1"
-        },
-        {
-          "season": 1,
-          "number": 2,
-          "title": "2. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-2-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e2"
-        },
-        {
-          "season": 1,
-          "number": 3,
-          "title": "3. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-3-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e3"
-        },
-        {
-          "season": 1,
-          "number": 4,
-          "title": "4. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-4-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e4"
-        },
-        {
-          "season": 1,
-          "number": 5,
-          "title": "5. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-5-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e5"
-        },
-        {
-          "season": 1,
-          "number": 6,
-          "title": "6. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-6-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e6"
-        },
-        {
-          "season": 1,
-          "number": 7,
-          "title": "7. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-7-bolum-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e7"
-        },
-        {
-          "season": 1,
-          "number": 8,
-          "title": "8. Bölüm",
-          "source": "https://www.dizibox.live/bir-baskadir-1-sezon-8-bolum-sezon-finali-izle/",
-          "durationMs": 0,
-          "id": "dizibox-bir-baskadir-ff7ce4b28375:s1:e8"
-        }
-      ],
-      "language": "auto",
-      "kind": "series",
-      "addedAt": "2026-11-11T21:17:13Z"
     }
   ],
   "providers": [
