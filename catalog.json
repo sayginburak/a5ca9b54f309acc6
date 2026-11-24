@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 49,
-  "updatedAt": "2026-11-24T19:05:09Z",
+  "revision": 50,
+  "updatedAt": "2026-11-24T19:23:18Z",
   "series": [
     {
       "id": "behzat",
@@ -4878,6 +4878,100 @@
       "kind": "series",
       "language": "auto",
       "addedAt": "2026-11-24T19:05:09Z"
+    },
+    {
+      "id": "setfilmizle-gassal-9097b205f99d",
+      "title": "Gassal – 3. Sezon",
+      "subtitle": "SetFilmizle",
+      "provider": "setfilmizle",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.hdfilmcehennemi.land/wp-content/uploads/2024/12/gassal-2024-izle.webp",
+      "episodes": [
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-1-bolum/",
+          "season": 3,
+          "number": 1,
+          "title": "1. Bölüm",
+          "durationMs": 1984520,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e1"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-2-bolum/",
+          "season": 3,
+          "number": 2,
+          "title": "2. Bölüm",
+          "durationMs": 2321160,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e2"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-3-bolum/",
+          "season": 3,
+          "number": 3,
+          "title": "3. Bölüm",
+          "durationMs": 2274120,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e3"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-4-bolum/",
+          "season": 3,
+          "number": 4,
+          "title": "4. Bölüm",
+          "durationMs": 2172000,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e4"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-5-bolum/",
+          "season": 3,
+          "number": 5,
+          "title": "5. Bölüm",
+          "durationMs": 2291440,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e5"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-6-bolum/",
+          "season": 3,
+          "number": 6,
+          "title": "6. Bölüm",
+          "durationMs": 2493920,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e6"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-7-bolum/",
+          "season": 3,
+          "number": 7,
+          "title": "7. Bölüm",
+          "durationMs": 2313360,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e7"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-8-bolum/",
+          "season": 3,
+          "number": 8,
+          "title": "8. Bölüm",
+          "durationMs": 2925880,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e8"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-9-bolum/",
+          "season": 3,
+          "number": 9,
+          "title": "9. Bölüm",
+          "durationMs": 2182880,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e9"
+        },
+        {
+          "source": "https://www.setfilmizle.ltd/bolum/gassal-3-sezon-10-bolum/",
+          "season": 3,
+          "number": 10,
+          "title": "10. Bölüm",
+          "durationMs": 2968040,
+          "id": "setfilmizle-gassal-9097b205f99d:s3:e10"
+        }
+      ],
+      "language": "auto",
+      "kind": "series",
+      "addedAt": "2026-11-24T19:23:18Z"
     }
   ],
   "providers": [
@@ -4917,18 +5011,21 @@
       ],
       "embedHosts": [
         "setplay.shop",
-        "fastplay.mom"
+        "fastplay.mom",
+        "setplay.sbs"
       ],
       "kinds": [
-        "movie"
+        "movie",
+        "series"
       ],
       "search": {
         "path": "/",
         "queryParam": "s"
       },
-      "contentPathPattern": "/film/[a-z0-9]+(?:-[a-z0-9]+)*/?",
+      "contentPathPattern": "/(?:film|dizi)/[a-z0-9]+(?:-[a-z0-9]+)*/?",
       "enabled": true,
-      "experimental": true
+      "experimental": true,
+      "episodePathPattern": "/bolum/[a-z0-9]+(?:-[a-z0-9]+)*/?"
     },
     {
       "id": "sinekfilmizle",
