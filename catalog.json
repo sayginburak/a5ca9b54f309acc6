@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "revision": 48,
-  "updatedAt": "2026-11-14T19:36:17Z",
+  "revision": 49,
+  "updatedAt": "2026-11-24T19:05:09Z",
   "series": [
     {
       "id": "behzat",
@@ -4784,6 +4784,100 @@
       "language": "auto",
       "kind": "series",
       "addedAt": "2026-11-14T19:36:17Z"
+    },
+    {
+      "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef",
+      "title": "Gassal",
+      "subtitle": "4. Sezon",
+      "provider": "hdfilmcehennemi-land",
+      "accent": "#E3A06C",
+      "artwork": "grid",
+      "coverUrl": "https://www.hdfilmcehennemi.land/wp-content/uploads/2024/12/gassal-2024-izle.webp",
+      "episodes": [
+        {
+          "season": 4,
+          "number": 1,
+          "title": "1. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-1-bolum-izle/",
+          "durationMs": 2387480,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e1"
+        },
+        {
+          "season": 4,
+          "number": 2,
+          "title": "2. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-2-bolum-izle/",
+          "durationMs": 2131640,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e2"
+        },
+        {
+          "season": 4,
+          "number": 3,
+          "title": "3. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-3-bolum-izle/",
+          "durationMs": 2326160,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e3"
+        },
+        {
+          "season": 4,
+          "number": 4,
+          "title": "4. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-4-bolum-izle/",
+          "durationMs": 2100240,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e4"
+        },
+        {
+          "season": 4,
+          "number": 5,
+          "title": "5. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-5-bolum-izle/",
+          "durationMs": 2232240,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e5"
+        },
+        {
+          "season": 4,
+          "number": 6,
+          "title": "6. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-6-bolum-izle/",
+          "durationMs": 2013520,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e6"
+        },
+        {
+          "season": 4,
+          "number": 7,
+          "title": "7. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-7-bolum-izle/",
+          "durationMs": 2155200,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e7"
+        },
+        {
+          "season": 4,
+          "number": 8,
+          "title": "8. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-8-bolum-izle/",
+          "durationMs": 2349760,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e8"
+        },
+        {
+          "season": 4,
+          "number": 9,
+          "title": "9. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-9-bolum-izle/",
+          "durationMs": 2371840,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e9"
+        },
+        {
+          "season": 4,
+          "number": 10,
+          "title": "10. Bölüm",
+          "source": "https://www.hdfilmcehennemi.land/bolum/gassal-4-sezon-10-bolum-izle/",
+          "durationMs": 2597280,
+          "id": "hdfilmcehennemi-land-gassal-2024-hd6-izle-5-e2007d3312ef:s4:e10"
+        }
+      ],
+      "kind": "series",
+      "language": "auto",
+      "addedAt": "2026-11-24T19:05:09Z"
     }
   ],
   "providers": [
@@ -4925,7 +5019,8 @@
       ],
       "embedHosts": [
         "setplay.shop",
-        "fastplay.mom"
+        "fastplay.mom",
+        "setplay.sbs"
       ],
       "kinds": [
         "movie",
